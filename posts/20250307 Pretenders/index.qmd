@@ -1,0 +1,142 @@
+---
+title: "Pretenders"
+author: "DK"
+date: "2025-03-07"
+categories: [learning]
+---
+
+When learning something new, expect to make mistakes.
+
+For a long time I thought lyrics went like this
+
+> "I speak like I defected."
+
+Only recently, I learned I was completely wrong.
+
+The actual wording is
+
+> "If I split like light refracted"
+
+The whole verse is,
+
+> Don't get me wrong\
+> If I split like light refracted\
+> I'm only off to wander\
+> Across a moonlit mile
+
+So much for listening comprehension
+
+Maybe I should have just enjoyed the fast beat song and not worry about lyrics.
+
+Then, I would miss out on this clever lyrics,
+
+> Don't get me wrong\
+> If I'm acting so distracted\
+> I'm thinking about the fireworks\
+> That go off when you smile
+
+![](images/DSC_9047~2.JPG)
+
+First few years in a new country was an adventure for my family.
+
+I was largely shielded from hardship, due to my age.
+
+Elementary or grade school was easy, since my sole task was to learn to speak the language.
+
+Noticed some friends were bused to the school from another location.
+
+Then in middle school, it was my turn to be bused.
+
+We were bused to a location, about 10 miles away.
+
+Didn't understand the reason at the time.
+
+Later I understood the reason for busing was racial integration
+
+```{r}
+#| echo: false
+library(leaflet)
+leaflet() %>%
+  addProviderTiles(providers$CartoDB.Positron) %>%  # Light-themed tiles
+  addCircleMarkers(lng=-76.87086334405883, lat=38.99499823336758, color = "red", radius = 6, popup = "Eleanor Roosevel HS")
+
+```
+
+Got a reprieve when I unexpectedly passed the exam to attend the a STEM school.
+
+The school was within the walking distance.
+
+Don't think I passed the exam based on my knowledge alone.
+
+I either got graded on a curve or got a lot of help from above.
+
+Since I was only 3 years removed from landing in America with no understanding of the language.
+
+---
+
+I am grateful for teachers and teaching assistants at Springhill Lake and William Wirt for teaching me the basics of communication.
+
+Also friends that taught me how to be a part of a community
+
+And those showed me how to play basketball and teach me English at the same time.
+
+And friends and families of the Carrollton Ward congregation.
+
+For showing me and my family ways to adjust and thrive in our new surroundings.
+
+Thank you people of Silver Spring Stake area.
+
+---
+
+The other source of learning, apart from speaking with my siblings and watching the Television was the popular music.
+
+There were these FM Radio stations with catchy call signs
+
+-   WASH-FM
+
+-   WKYS-FM
+
+-   WWDC-FM
+
+-   WGMS-FM
+
+-   WETA-FM
+
+The most famous on-air personality at the time, was Howard Stern at WWDC.
+
+However, I discovered that each school along with Public Radio stations played classical music at certain times of the day and some at all hours of the day.
+
+The person I remember from that era was Marilyn Cooley, she worked at WETA for 32 years.
+
+For me it was not only for her knowledge of the music but her voice was perfect fit for the classical music genre and an idealized representation of the American English.
+
+An example of her voice, in her later years at Colorado Public Radio, <https://soundcloud.com/boulderphil/elgar-beethoven-a-podcast-introduction-by-marilyn-cooley-and-michael-butterman>
+
+And in her days at WETA, <https://soundcloud.com/anthony-eversole/castleton-promotional>
+
+---
+
+Thankful for those artists that performed during the 1980s.
+
+You taught me about the American culture and how to speak like a native.
+
+Although I often misunderstood and incorrectly said those clever lyrics.
+
+So thank you Chrissie Hynde and the Pretenders for being a part of the soundtrack. \^[@sec-trifecta]
+
+Of living and learning as an immigrant, but not a defector.
+
+> I found a picture of you, o-o-oh, o-o-oh\
+> Those were the happiest days of my life\
+> Like a break in the battle was your part, o-o-oh, o-o-oh\
+> In the wretched life of a lonely heart
+
+![](images/20250304_182746.jpg)
+
+## Prentenders Trifecta  {#sec-trifecta}
+
+-   Don't Get Me Wrong - <https://www.youtube.com/watch?v=qbAab1hTxN4> (the quoted phrase starts around 1:40 minute mark)
+
+-   Back on the Chain Gang - <https://www.youtube.com/watch?v=cMOKamtpUA8>
+
+-   Brass in Pocket - <https://www.youtube.com/watch?v=0H6re3PCP3E>
