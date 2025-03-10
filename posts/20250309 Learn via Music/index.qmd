@@ -1,0 +1,112 @@
+---
+title: "Forgotten Season"
+author: "DK"
+date: "2025-03-09"
+draft: yes
+categories: [language]
+---
+
+After learning, practicing a new language for a decade, I could relax a bit.
+
+Then came the call.
+
+To work with the Korean people in 나성 (羅城)^[<https://www.clien.net/service/board/park/5996871>]
+
+At first, I was bit disappointed that I was not sent to my home country.
+
+But it was the perfect place for me
+
+---
+
+Arrived in LA in February.
+
+Compared to Utah, California seemed like a paradise in winter.
+
+My companion from Murray, picked me up at mission.
+
+He proceeded to take me through UCLA and Beverly Hills area.
+
+I had good feelings about the area.
+
+When we had arrived in our working area, I was less enthusiastic.
+
+The street was named Country Club Drive but the house and our dwelling did not resemble the street name.
+
+```{r}
+#| echo: false
+library(leaflet)
+leaflet() %>%
+  addProviderTiles(providers$CartoDB.Positron) %>%  # Light-themed tiles
+  addCircleMarkers(lng=-118.31254640789366, lat=34.04935789169061, color = "red", radius = 6, popup = "Eleanor Roosevel HS")
+```
+
+Our apartment, if we can call it that, was either a servant quarter or a storage shack that had some converted rooms.
+
+The swimming was not in working order and the had broken diving board.
+The remaining diving board base served as a roping practice tool on P-Days.
+
+On the plus side, we were a few blocks away from the center of K-Town.
+Olympic and Western was the unofficial gateway into the Korean enclave.
+
+In addition, the famous El Chollo restaurant was on Western Avenue.
+We also had Chinese Restaurants, the kind we grew up with in Korea.
+To busy Angelinos, these restaurants became a common meeting place.
+
+---
+
+But the biggest challenge was gaining the trust of members.
+They welcomed me as their own, but they questioned my language ability.
+
+So did I.
+
+I spoke to my siblings in English.
+I did speak to my parents in Korean but it was at a grade school level.
+Outside of home and few Korean members and returned missionaries, had no other contact with Koreans growing up in Maryland.
+
+Some members even asked whether I was really Korean
+Since no Korean would lack the language skills as I did.
+They thought my trainer, who spent 9 months in Korea before transferring to LA, spoke far better Korean.
+
+I had work to do.
+
+Worked hard to overcome my fears of speaking in front of people.
+By meeing people on the streets and at their homes, language comprehension improved.
+We had some success as well.
+
+Then my companion of 7 months completed his mission and returned home.
+
+I was not ready for what was about to happen.
+
+---
+
+I was entrusted with 2 missionaries, directly from MTC.
+One was from Gilbert AZ, the other from Richland WA.
+I went from one being trained to training new missionaries -- 2 of them.
+
+I was at loss at first.
+But I no option but to carry on.
+With their faith, support of family at home and members of the Korean Branch the continued.
+
+I got to visit each apartment in Koreatown at least twice, some many more times.
+
+---
+
+I trained 2 more companions before finishing my mission.
+2 Elder 박, one from Chicago and the other from Ogden.
+
+Thus by putting faith in God, I was strengthened.
+As promised in Ether 12.
+
+---
+
+The language improvement was made gradually without compulsory means.
+
+
+
+
+
+
+
+
+
+
