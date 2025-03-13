@@ -1,0 +1,99 @@
+---
+title: "Our Korean Surname"
+author: "DK"
+date: "2025-03-12"
+categories: [family-names]
+---
+
+There aren't many surnames in Korea.
+
+According to Open-AI, GPT, there are approximately 280 family names.
+
+However, top 3 names, Kim, Lee, and Park account for nearly half of the population (\~45%).
+
+GPT further explains,
+
+> Many surnames are distinguished by their **bon-gwan** (본관, 本貫), which indicates the ancestral hometown or clan origin. This creates distinct family lineages even among those with the same surname
+
+So the actual distinguishable family names could reach thousands.
+
+------------------------------------------------------------------------
+
+Our family name is associated with 진주 강씨(晉州 姜氏), one of largest Kang clans within 1.2 million people that are named Kangs.
+
+I have not seen my father's family record or 계보([系譜](https://www.wikiwand.com/ko/dictionary/%E7%B3%BB%E8%AD%9C "系譜")).
+
+I don't know whether there was a copy of the genealogical record in North Korea.
+
+I do know that North Korean refugees could re-establish family records in South Korea after the war.
+
+Many families registered family relationships, adding birth and marriage dates from recollections of surviving elders.
+
+Also I recall that my grandfather's mother remarried. She thought about changing grandfather's name from Kang to Shin. Grandfather refused and kept the surname of Kang.
+
+Based on that story, we are part of the Kang family. At least when my grandfather Kang became of age. Whether belonging to 진주 강씨 clan, is based on a record is not verifiable.
+
+![](images/20250312_173926~2.jpg)
+
+It is estimated that over a million people fled North Korea and settled in South Korea.
+
+Both of my parent's family added to those figures. All of my father's siblings married a fellow North Koreans As did my mother's sisters.
+
+I still recall, how they would switch to their local dialects during family gatherings.
+
+That distinctive sound is no longer common.
+
+But every now and then, I hear a voice that reminds me of my father's home. People like, Mr. Ogden 박 and Mr. Sandy 김. I believe both of them were born and raised in towns near my father's hometown of 안변.
+
+```{r}
+#| echo: false
+#| warning: false
+library(tidyverse)
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = 127.53013209786941, lat = 39.0457293155298, popup = "안변읍, KangWon Province")
+```
+
+My father's hometown is about 5 miles southeast of the city of 원산. And about 100kim north of the DMZ on the East Coast of Korea.
+
+I wish to visit there one day. Pay a visit to my grandfather(강현용) and father's older brother's (강금섭) graves -- if it exists.
+
+------------------------------------------------------------------------
+
+My mother told me about her 태몽(胎夢 / conception dream)
+
+She was in a mountainous area, a canyon. Met an elderly gentleman, dressed in white, with a beard.
+
+Although she never met him, she recognized him as my grandfather. He handed her a book, she had an impression that it was the Kang Family History.
+
+------------------------------------------------------------------------
+
+Over the years, I believed for and hoped that a way would be open for us to access the genealogical records in Korea.
+
+Now that hope is fading.
+
+I will do my best to record things that I remember. Things my parents told me about their recollections.
+
+I hope to be aided in this effort by the Spirit.
+
+-   Provo, March 2025
+
+### **Understanding Bon-gwan**
+
+-   The **bon-gwan** system helps distinguish families with the same surname.
+
+-   People with the same surname **and** bon-gwan are considered part of the same extended family and traditionally cannot marry each other.
+
+### **Notable Kang Bon-gwan**
+
+Some prominent Kang clans include:
+
+| **Bon-gwan (본관)**      | **Region (Location)**                       | **Notes**                            |
+|------------------|-----------------------------|-------------------------|
+| **Jinju (진주 강씨)**    | Jinju, South Gyeongsang                     | One of the largest Kang clans        |
+| **Goksan (곡산 강씨)**   | Goksan, North Hwanghae (now in North Korea) | Historically influential in politics |
+| **Naju (나주 강씨)**     | Naju, South Jeolla                          | Known for scholars and officials     |
+| **Cheongju (청주 강씨)** | Cheongju, North Chungcheong                 | Smaller but historically significant |
+| **Andong (안동 강씨)**   | Andong, North Gyeongsang                    | Known for Confucian scholars         |
