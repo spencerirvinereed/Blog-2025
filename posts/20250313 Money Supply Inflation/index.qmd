@@ -1,0 +1,190 @@
+---
+title: "Money Supply and Inflation"
+author: "DK"
+date: "2025-03-13"
+draft: yes
+categories: [inflation]
+---
+
+# M1 vs. M2 Money Supply: Key Differences and Impact on Inflation
+
+The M1 and M2 money supplies both measure the amount of money circulating in an economy, but they focus on different types of liquidity.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| tbl-cap: "Key Differences Between M1 and M2"
+library(tidyverse)
+library(readxl)
+library(gt)
+
+df <- read_excel("data.xlsx")
+df %>% 
+  gt()
+
+```
+
+
+
+### Impact on Inflation
+
+1. M1 and Inflation:
+
+- A rapid increase in M1 often signals rising consumer spending, which can push demand higher and contribute to demand-pull inflation.
+- Conversely, a sharp decrease in M1 may reflect reduced spending power, which can slow economic growth.
+
+2. M2 and Inflation:
+
+- Growth in M2 is more closely linked to longer-term inflation trends since it reflects both spending and savings behavior.
+- A sharp rise in M2 may indicate excess liquidity, which can eventually spill into consumer prices.
+
+### Example Scenario:
+
+- If the Federal Reserve increases the money supply (M1) rapidly, consumers may spend more, driving up demand for goods and services. Without an increase in supply, this can raise prices, causing inflation.
+- On the other hand, a spike in M2 might show that people are saving more, potentially delaying inflation but signaling future spending capacity.
+
+
+### Key Insight
+
+- M1 is a better short-term indicator of spending patterns.
+- M2 provides a broader view of money growth and its potential long-term impact on inflation.
+
+# M1 Supply and Consumer Price Index (CPI)
+
+From Federal Reserve Bank of St Louis 
+
+- M1 Supply (https://fred.stlouisfed.org/series/M1SL)
+- Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (CPIAUCSL) (https://fred.stlouisfed.org/series/CPIAUCSL)
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(tidyverse)
+df <- read_csv("~/Downloads/M1SL.csv")
+
+names(df)[1] <- "date"
+
+df %>% 
+  ggplot(aes(date, M1SL)) +
+  geom_point() +
+  labs(title = "M1 Money Supply : Since 1959",
+       y = "Billions of Dollars, Seasonally Adjusted")
+
+df %>% 
+  filter(date>"1979-12-01") %>% 
+  ggplot(aes(date, M1SL)) +
+  geom_point() +
+  labs(title = "M1 Money Supply : Since 1980",
+       y = "Billions of Dollars, Seasonally Adjusted")
+
+cpi <- read_csv("~/Downloads/CPIAUCSL.csv")
+
+names(cpi)[1] <- "date"
+
+cpi %>% 
+  ggplot(aes(date, CPIAUCSL)) +
+  geom_point() +
+  labs(title = "Consumer Price Index : Since 1947")
+
+cpi %>% 
+  filter(date>"1979-12-01") %>% 
+  ggplot(aes(date, CPIAUCSL)) +
+  geom_point() +
+  labs(title = "Consumer Price Index : Since 1947")
+
+df <- merge(df, cpi)
+
+df %>% 
+  gather(key, value, -1) %>% 
+  ggplot(aes(date, value, color=key)) +
+  geom_point() +
+  labs(title = "Combined CPI and M1 Supply : Since 1959",
+       y = "Index 1982-1984=100, Seasonally Adjusted")
+
+df %>% 
+  gather(key, value, -1) %>% 
+  filter(date>"1979-12-01") %>% 
+  ggplot(aes(date, value, color=key)) +
+  geom_point() +
+  facet_wrap(~key, scales = 'free') +
+  labs(title = "Combined CPI and M1 Supply : Since 1980",
+       y = "Index 1982-1984=100, Seasonally Adjusted")
+
+# Normalize both series
+df$M1_norm <- scales::rescale(df$M1SL, to = c(0, 1))
+df$CPI_norm <- scales::rescale(df$CPIAUCSL, to = c(0, 1))
+
+# Plot
+ggplot(df, aes(x = date)) +
+  geom_line(aes(y = M1_norm, color = "M1_norm")) +
+  geom_line(aes(y = CPI_norm, color = "CPI_norm")) +
+  scale_y_continuous(sec.axis = sec_axis(~ ., name = "Normalized Values")) +
+  labs(title = "M1 Supply vs. CPI (Normalized)", x = "Year", y = "Normalized Values") +
+  theme_minimal() +
+  scale_color_manual(values = c("M1_norm" = "blue", "CPI_norm" = "red"))
+
+# Plot 2
+
+df %>% 
+  filter(date>"2010-12-01") %>% 
+  ggplot(aes(x = date)) +
+  geom_line(aes(y = M1_norm, color = "M1_norm")) +
+  geom_line(aes(y = CPI_norm, color = "CPI_norm")) +
+  scale_y_continuous(sec.axis = sec_axis(~ ., name = "Normalized Values")) +
+  labs(title = "M1 Supply vs. CPI (Normalized)", 
+       subtitle = "Since January 2011",
+       x = "Year", y = "Normalized Values") +
+  theme_minimal() +
+  scale_color_manual(values = c("M1_norm" = "blue", "CPI_norm" = "red"))
+
+```
+
+
+
+# Does M1 Money Supply Predict Inflation or Vice Versa
+
+The **M1 money supply** and **inflation** are closely linked, but the relationship is complex — one does not always predict the other in a straightforward way. Here's how the interaction generally works:
+
+### **1. M1 Growth as a Predictor of Inflation**
+
+-   **M1 Expansion → Inflation Risk:**\
+
+    When the M1 supply rises rapidly, it often signals increased consumer spending. If demand outpaces the supply of goods and services, **demand-pull inflation** can occur.
+
+-   **Example:** During economic stimulus periods, expanded M1 may lead to higher prices if consumer spending surges.
+
+✅ **M1 growth tends to lead inflation** — but only if spending activity rises faster than supply.
+
+### **2. Inflation Influencing M1**
+
+-   **Inflation → Higher M1 Demand:**\
+
+    In inflationary periods, consumers may keep more funds in liquid forms (like checking accounts) to cope with rising prices, which can inflate M1 figures.
+
+-   **Example:** In times of high inflation, people may reduce savings in long-term deposits (M2) and instead hold more cash or liquid assets (M1) to maintain spending flexibility.
+
+✅ **Inflation can increase M1** as people adjust financial habits.
+
+### **3. Situations Where the Link Breaks**
+
+-   **Velocity of Money:** If M1 rises but **money velocity** (the rate money circulates in the economy) falls, inflation may not follow.
+
+-   **Supply Chain Factors:** Inflation can also spike due to supply-side shocks (e.g., oil crises, labor shortages) without direct M1 changes.
+
+### **Historical Example:**
+
+-   **2020–2021 (Pandemic Stimulus Era):**
+
+-   The U.S. M1 supply surged due to stimulus payments and loose monetary policy.
+-   Initially, inflation remained low because consumers saved more and spent cautiously.
+-   By late 2021, when spending increased, inflation spiked sharply.
+
+    ------------------------------------------------------------------------
+
+### **Conclusion:**
+
+-   **M1 growth** is often a **leading indicator** of inflation, but its predictive power depends on consumer behavior, economic conditions, and supply-side factors.
+
+-   **Inflation** can also reshape M1 patterns as people shift toward more liquid assets
