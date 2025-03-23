@@ -24,6 +24,50 @@ You are given a partner, for life and beyond, for this effort.i
 
 If difficulties of the role was known beforehand and widely shared, there would be far less applicants.
 
+---
+
+Hiring manager that I work with commented.
+
+> I just posted 2 open positions, I expected a barrage of AI-assisted applications
+
+In addition, he expected to hear from those that are sure they meet all of the job requirements or exceed them.
+
+Then, he would choose those that fit the company culture and would getting along with team members
+
+With the knowledge and understanding that team or company specific knowledge and skills can be taught and learned
+
+---
+
+Once I interviewed for a position that was a stretch role.
+
+Was surprised to receive a phone call from HR extending an offer.
+
+Probably met some of the requirements, but it was in an industry that I haven't worked in for 15 years.
+
+For the first several months, struggled to learn the role of Program Engineering Manager.
+
+I wasn't enjoying the role.
+
+With help from fellow PEMs and talking with other team members I learned the role.
+
+My task is not to solve the issue but formulate the issue and bringin those with specific knowledge.
+
+These were individuals that have devoted much of their career learning about a specific product.
+
+In this case, FOG, Fiber Optic Gyroscope.
+
+These were System Engineers and they were esteemed high by everyone.
+
+---
+
+We are selected for the role with little or no training.
+
+We do not necessarily select those that have vaunted skills or manifest over confidence
+
+Instead we select, as our partner, those that we can work together.
+
+Because, we are trained, shaped and reshaped, first by our parents, then our companions, finally by our children and grandchildren.
+
 ------------------------------------------------------------------------
 
 <https://www.churchofjesuschrist.org/study/general-conference/2000/10/the-tugs-and-pulls-of-the-world?lang=eng>
@@ -81,3 +125,57 @@ Can't think of more wonderful show of faith.
 Personal commitment, made in front of others.
 
 Case of private commitment that is shared publicly
+
+A **Fiber Optic Gyroscope (FOG)** is a crucial component in missile navigation systems, providing highly accurate angular velocity measurements to ensure precise guidance and control. Here's how it works and why it's used:
+
+### **How a FOG Works**
+
+A Fiber Optic Gyroscope operates based on the **Sagnac Effect**, which is an optical phenomenon where light traveling in opposite directions through a coiled fiber experiences a phase shift when the system rotates. The key components include:
+
+1.  
+
+2.  **Coiled Optical Fiber** – Light is transmitted through several kilometers of fiber optic cable wound in a coil.
+
+3.  
+
+4.  **Laser Source** – A laser beam is split into two and sent in opposite directions through the fiber coil.
+
+5.  
+
+6.  **Interference Detection** – When the missile rotates, a phase shift occurs between the two light beams due to the Sagnac Effect, which is measured to determine angular velocity.
+
+7.  
+
+### **Why FOGs Are Used in Missile Navigation**
+
+1.  
+
+2.  **High Accuracy** – FOGs provide precise rotational data, crucial for guiding missiles toward their targets.
+
+3.  
+
+4.  **No Moving Parts** – Unlike traditional mechanical gyroscopes, FOGs are solid-state, making them more reliable and durable.
+
+5.  
+
+6.  **Fast Response Time** – Optical signals are processed almost instantly, allowing real-time adjustments to missile trajectory.
+
+7.  
+
+8.  **Resistant to External Disturbances** – They are less affected by vibrations, accelerations, and electromagnetic interference, which are common in missile environments.
+
+9.  
+
+10. **Long Operational Life** – Due to their solid-state nature, they have a longer lifespan and lower maintenance requirements.
+
+11. 
+
+### **Application in Missile Systems**
+
+FOGs are integrated into **Inertial Navigation Systems (INS)**, which track a missile’s position without relying on external signals like GPS. This makes them especially useful in:
+
+-   **Ballistic Missiles** – Ensuring precise long-range targeting.
+
+-   **Cruise Missiles** – Providing accurate navigation for terrain-following and target-seeking.
+
+-   **Air-to-Air and Surface-to-Air Missiles** – Enhancing mid-course and terminal guidance.
