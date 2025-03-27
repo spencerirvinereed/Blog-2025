@@ -5,9 +5,13 @@ date: "2025-03-17"
 categories: [family record]
 ---
 
-My maternal grandfather was born at
+My maternal grandfather's family roots are at
 
-황해도 창연군 후남면 남호리 38
+조선 평안남도 강서군 철면  송포리
+
+However, he spent most of his life at
+
+조선 황해도 장연군 후남면 남호리 291
 
 In what is now designated as North Korea.
 
@@ -54,7 +58,7 @@ leaflet() %>%
   addMarkers(lng = 125.09459205373757, lat = 38.248277808173825, popup = "황해도장연군駅") 
 ```
 
-If the train lines were restored, 장연군역, which is approximately 120 miles from Seoul, could be reached in less than 2 hours.
+If the train lines were restored, 장연군역, which is approximately 120 miles, WNW direction from Seoul, could be reached in less than 2 hours.
 
 People of the area, would be aware of our arrival.
 
@@ -147,3 +151,26 @@ To a place, soon flowing with orchards and dotted with general stores.
 ## Hwang Family Record
 
 ![](images/EPSON091.JPG)
+
+## Mom recalling her childhood homes
+
+<audio controls>
+  <source src="Mom recals address.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
+## 펑안남도강서군駅
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(leaflet)
+library(tidyverse)
+
+leaflet() %>%
+  addTiles() %>%  # Add OpenStreetMap tiles
+  setView(lng = 125.5204815363014, lat = 38.91753785887004, zoom = 10) %>%  # Center the map
+  addMarkers(lng = 125.5204815363014, lat = 38.91753785887004, popup = "펑안남도강서군駅") 
+```
+
