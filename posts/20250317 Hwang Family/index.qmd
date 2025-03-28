@@ -173,7 +173,7 @@ To a place, soon flowing with orchards and dotted with general stores.
   Your browser does not support the audio element.
 </audio>
 
-## 펑안남도강서군駅
+## 평안남도강서군駅
 
 ```{r}
 #| echo: false
