@@ -1,0 +1,103 @@
+---
+title: "Welcome Home"
+author: "DK"
+date: "2025-03-23"
+categories: [homecoming]
+---
+
+Never grasped Einstein's Theory of Relativity, specifically Special Relativity. 
+Often explained through a tale about an astronaut traveling at near light speed and then returning to Earth.
+
+However, I do know that passage of time feels different and seem relative when a family member is away, serving a mission for example.
+
+To a family with a loved one elsewhere, the duration is exact or seem longer, since the focus is on the individual and are aware of their whereabouts and their doings, through a weekly meet up.
+
+To those outside of immediate circle, the length of their service seem quicker than assigned 18 months or 24 months. They are not informed of the service and not tracking the progress.
+
+Most common responses are,
+
+"Oh are they already coming back, thought they just left"
+
+Special Relative Theory describes and explains^[ChatGPT-4-turbo],
+
+- Space and time are **not absolute**; they are interconnected in **spacetime**.
+
+- High speeds cause space contraction and time dilation, effects predicted and confirmed by relativity.
+
+---
+
+![](images/20240420_083309.jpg)
+
+The returning missionary was beaming as she faced the congregation, friends and family for the first time in 19 months.
+
+The opening words were, describing the people she worked with and served,
+
+> It's an amazing place with an amazing people
+
+The frequency of its use does not diminish the impact and full meaning of this statement.
+
+Spoken by mostly 20 and 21 year old persons, after spending grueling, frustrating, inhospitable condition, their first words are, that it was an amazing experience.
+
+Each mission is unique and persons bring their own unique gifts.
+
+In the past, missionaries experienced,
+
+> 5 Now these are the circumstances which attended them in their journeyings, for they had many afflictions; they did suffer much, both in body and in mind, such as hunger, thirst and fatigue, and also much [labor](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=eng#note5a) in the spirit.
+
+And they struggled with discouragement and overcame with patience and perseverance
+
+> 27 Now when our hearts were depressed, and we were about to [turn](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng#note27a) back, behold, the Lord [comforted](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng#note27b) us, and said: Go amongst thy brethren, the Lamanites, and bear with [patience](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng#note27c) thine [afflictions](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng#note27d), and I will give unto you success.
+
+Perhaps, in their progress through trials, they felt something akin to Levin's ephiphany in Anna Karenina^[<https://www.felixstocker.com/blog/levin>].
+
+> The longer Levin went on mowing, the oftener he experienced those moments of oblivion when his arms no longer seemed to swing the scythe, but the scythe itself his whole body, so conscious and full of life; and as if by magic, regularly and definitely without a thought being given to it, the work accomplished of its own accord. These were blessed moments.
+
+As this and other missionaries labored and loved the people, the constraints of time and space or the terrestrial laws were suspended.
+
+The people being served felt the love of God and saw a glimpse of eternity and their role in it.
+
+Likewise the one sharing the Good News realized anew,
+
+> And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
+
+Welcome home Sister L.
+
+---
+
+## Open AI Explanation of Special Relativity
+
+The difference in years for an astronaut traveling at near-light speed and then returning to Earth is explained by **Einstein's Theory of Relativity**, specifically **Special Relativity** and the concept of **time dilation**.
+
+### **Key Concept: Time Dilation**
+
+Time dilation means that time passes at different rates for observers moving relative to each other. According to Einstein’s Special Relativity:
+
+-   **As an object moves faster, time slows down for it relative to an observer at rest.**
+
+-   The effect becomes dramatic as the object approaches the speed of light.
+
+### **The Thought Experiment: The Twin Paradox**
+
+Imagine a twin astronaut traveling on a spaceship near the speed of light (say, 99.9% of the speed of light) and then returning to Earth.
+
+1.  **During the journey**:
+
+    -   The astronaut’s clock (inside the spaceship) runs much slower compared to a clock on Earth.
+
+    -   To the astronaut, time feels normal, but for observers on Earth, the astronaut is aging much more slowly.
+
+2.  **When the astronaut returns to Earth**:
+
+    -   Because time was moving slower for the astronaut, they may have aged only a few years.
+
+    -   Meanwhile, much more time has passed on Earth—possibly decades or even centuries.
+
+### **Why It Happens**
+
+-   Space and time are **not absolute**; they are interconnected in **spacetime**.
+
+-   High speeds cause space contraction and time dilation, effects predicted and confirmed by relativity.
+
+### **Conclusion**
+
+If an astronaut were to travel at near-light speeds for what feels like a few years for them, they could return to Earth and find that many more years (even centuries) have passed here. This is a real effect and has been experimentally confirmed using high-speed particles and precise atomic clocks.
