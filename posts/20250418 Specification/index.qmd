@@ -1,0 +1,223 @@
+---
+title: "Life's Labor"
+author: "DK"
+date: "2025-04-17"
+draft: yes
+categories: [life]
+---
+
+For a while, I have contemplated 隱退(은퇴) and freedom from responsibility.
+
+Now that time is fast approaching, I am concerned about freedom, specifically unbounded free time.
+
+Started work when technology entered the market
+
+------------------------------------------------------------------------
+
+Specification
+
+Lived and worked in FDA Domain of Design Control
+
+------------------------------------------------------------------------
+
+**FDA Design Control** refers to a set of **regulatory requirements** defined by the U.S. **Food and Drug Administration (FDA)** to ensure that **medical devices** are **safely and effectively designed**. It’s a key component of **Quality System Regulation (QSR)** found in **21 CFR Part 820.30**.
+
+------------------------------------------------------------------------
+
+## 🔍 **What is Design Control?**
+
+Design controls are **structured processes** that manufacturers must follow during the **development of medical devices**. The goal is to ensure devices meet **user needs, intended uses**, and **regulatory standards**, minimizing risks and improving quality.
+
+------------------------------------------------------------------------
+
+## 🧱 **Core Elements of Design Control (21 CFR 820.30):**
+
+1.  
+
+2.  
+
+    ### **Design and Development Planning**
+
+    -   
+
+    -   Define responsibilities, timelines, and milestones.
+
+    -   
+
+    -   Maintain a **Design and Development Plan** and update as needed.
+
+    -   
+
+3.  
+
+4.  
+
+    ### **Design Input**
+
+    -   
+
+    -   Translate **user needs and intended use** into **measurable design requirements**.
+
+    -   
+
+    -   Must be **reviewed and approved**.
+
+    -   
+
+5.  
+
+6.  
+
+    ### **Design Output**
+
+    -   
+
+    -   Document the **final design specifications** (drawings, production specs, etc.).
+
+    -   
+
+    -   Must be traceable to **design inputs**.
+
+    -   
+
+7.  
+
+8.  
+
+    ### **Design Review**
+
+    -   
+
+    -   Formal, documented **reviews** at various development stages.
+
+    -   
+
+    -   Involve **cross-functional teams** to evaluate progress and identify issues.
+
+    -   
+
+9.  
+
+10. 
+
+    ### **Design Verification**
+
+    -   
+
+    -   Confirm that the design outputs **meet the inputs** (e.g., functional testing).
+
+    -   
+
+    -   “Did we build the product right?”
+
+    -   
+
+11. 
+
+12. 
+
+    ### **Design Validation**
+
+    -   
+
+    -   Ensure the device **meets user needs and intended uses** under real or simulated conditions.
+
+    -   
+
+    -   “Did we build the right product?”
+
+    -   
+
+13. 
+
+14. 
+
+    ### **Design Transfer**
+
+    -   
+
+    -   Transition design into **manufacturing specifications** for consistent production.
+
+    -   
+
+15. 
+
+16. 
+
+    ### **Design Changes**
+
+    -   
+
+    -   All design changes must be **reviewed, validated/verified**, and documented.
+
+    -   
+
+17. 
+
+18. 
+
+    ### **Design History File (DHF)**
+
+    -   
+
+    -   A complete record showing **how the design was developed**, reviewed, and validated.
+
+    -   
+
+19. 
+
+------------------------------------------------------------------------
+
+## ✅ **Why Design Control Matters:**
+
+-   
+
+-   Required for most **Class II and Class III** devices (some **Class I** are exempt).
+
+-   
+
+-   Critical for **FDA inspections**, audits, and **product approvals**.
+
+-   
+
+-   Supports **traceability**, risk management, and product **recall prevention**.
+
+-   
+
+------------------------------------------------------------------------
+
+## 🧠 In Practice:
+
+A good design control process typically integrates:
+
+-   
+
+-   **Risk management (ISO 14971)**
+
+-   
+
+-   **Usability engineering (IEC 62366)**
+
+-   
+
+-   **Software validation (if applicable)**
+
+-   
+
+-   And often overlaps with **Design History Record (DHR)** and **Device Master Record (DMR)** management.
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   ![](images/clipboard-2564143227.png)
+
+------------------------------------------------------------------------
+
+Want a visual flowchart or template for a Design Control process?

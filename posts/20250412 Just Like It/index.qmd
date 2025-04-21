@@ -1,0 +1,142 @@
+---
+title: "Similar Outcome"
+author: "DK"
+date: "2025-04-12"
+draft: yes
+categories: [build]
+---
+
+> I see you have a camera like the one I used to have,
+>
+> You know, cell phone cameras do a good job as those DSLRs.
+
+A gentleman my age commented, as I walked with a Nikon introduced in December 2007, around the "Bowl" at a nearby 公園.
+
+Furthermore, as a proof, he showed photos of Grand Canyon in February.
+
+The ones he took with an iPhone.
+
+It was a great set of photos, taken from the South Rim as the shadows from the setting sun highlighted the Canyon.
+
+I had to agree with him, my old DSLR would not take better photos, if the comparison was the visual representation.
+
+However, there is one thing, a limiting thing about the phone based camera.
+
+One cannot take a bad photo.
+
+And if one can't take a bad photo how will one learn
+
+------------------------------------------------------------------------
+
+Old, manual cameras take low-fi photos
+
+A unique representation, exposure, f-stop, shutter speed, or ISO might be off
+
+mistake and all
+
+On the other hand,
+
+Cell phone photos are programmed to optimize everything
+
+Therefore it is a faihful (too perfect) representation of the moment.
+
+But no memory or life is perfect, it is flawed.
+
+And flawed representation fits me better.
+
+------------------------------------------------------------------------
+
+Need options or choices
+
+------------------------------------------------------------------------
+
+Manual vs Auto
+
+Manual drivers can drive Auto cars but not the other way
+
+Learned to drive stick shift on mission
+
+------------------------------------------------------------------------
+
+Even if one was to override the algorithm and take a bad shot, there is no way to know what caused the error to occur.
+
+Much like the Artificial Intelligence aided, enabled understanding and task completion, the essential part of growth and learning has been eliminated.
+
+The agency or choice is not available in instant photo taking and AI generated answers.
+
+In making photos, like in other efforts in life, mistakes will be made.
+
+In those mistakes, lessons are given and learned.
+
+------------------------------------------------------------------------
+
+The Equipment
+
+My entire equipment cost me an equivalent of several camera lens filters.
+
+The gentleman that sold me the camera said,
+
+> I can no longer distinguish a focused vs un-focused photo, take it and see if you can take good shots.
+
+9 months into owning the camera, there are buttons, settings and mirrors that I haven't used.
+
+Several times, I was tempted to use the automatic mode.
+
+Sadly Nikon doesn't provide that mode, closest mode is the Aperture Mode.
+
+I had to learn, or re-learn, the inter-relationship of the aperture opening, shutter speed and the light sensitivity as measured in ISO.[^1]
+
+[^1]: ISO refers to the sensitivity of your camera's sensor (or film) to light
+
+Photos taken with this camera has a number of flaws. But it represents the reality better. That is, it matches what my eyes sees better than the cell phone photos.
+
+If the purpose of the photo is to impress others pursue the cell phone and pursue equipment gathering
+
+Rather than pursuing skills and equipment to make photos like those of the professionals, make a photo or record of your own experience.
+
+However, if the goal or the pursuit is to understand how light is captured and processed, then purchase a used DSLR and go take a picture of a local item, all throughout the day
+
+Because
+
+How many iteration and derivatives do we need of {{Eiffel Tower}????}.
+
+------------------------------------------------------------------------
+
+## 📷 **What is a Camera Sensor?**
+
+A **camera sensor** is the **electronic component** inside a digital camera that **captures light** coming through the lens and converts it into an image.
+
+Think of it like the **digital version of film** in old cameras.
+
+------------------------------------------------------------------------
+
+## 🔍 **How It Works:**
+
+1.  **Light enters** through the lens.
+2.  It hits the **sensor**, which is covered with millions of tiny light-sensitive units called **photosites** or **pixels**.
+3.  Each pixel **measures the amount of light** and color that hits it.
+4.  The sensor **sends this data** to your camera’s processor, which turns it into a digital image.
+
+------------------------------------------------------------------------
+
+## 📐 **Key Sensor Terms:**
+
+| **Term**                           | **What It Means**                                                                         |
+|------------------------------------|-------------------------------------------------------------------------------------------|
+| **Megapixels (MP)**                | How many million pixels the sensor has. More MPs = higher potential resolution.           |
+| **Full-frame Sensor**              | Same size as 35mm film. Great low-light performance and shallow depth of field.           |
+| **Crop Sensor (APS-C, Micro 4/3)** | Smaller than full-frame. Brings distant subjects closer, but can be noisier in low light. |
+| **Dynamic Range**                  | How well the sensor captures both dark shadows and bright highlights.                     |
+| **ISO Sensitivity**                | How sensitive the sensor is to light (controlled by ISO settings).                        |
+
+------------------------------------------------------------------------
+
+## 🧠 **Why It Matters:**
+
+-   A **larger sensor** usually gives you **better image quality**, especially in **low light**.
+-   It affects **depth of field** (how blurry your background can be).
+-   It determines how much **detail and clarity** your camera can capture.
+
+------------------------------------------------------------------------
+
+If you’d like, I can also show how **sensor size affects images** — or compare models like **full-frame vs APS-C** visually. Want to go there?
