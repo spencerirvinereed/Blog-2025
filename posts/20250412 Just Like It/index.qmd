@@ -2,8 +2,7 @@
 title: "Similar Outcome"
 author: "DK"
 date: "2025-04-12"
-draft: yes
-categories: [build]
+categories: [learning]
 ---
 
 > I see you have a camera like the one I used to have,
@@ -18,63 +17,85 @@ The ones he took with an iPhone.
 
 It was a great set of photos, taken from the South Rim as the shadows from the setting sun highlighted the Canyon.
 
-I had to agree with him, my old DSLR would not take better photos, if the comparison was the visual representation.
+I had to agree with him, my old DSLR would not take better photos, if the comparison was based on the visual representation.
 
 However, there is one thing, a limiting thing about the phone based camera.
 
 One cannot take a bad photo.
 
-And if one can't take a bad photo how will one learn
+And if one can't take a bad photo how will one learn about
+
+> capturing moments with light
 
 ------------------------------------------------------------------------
 
-Old, manual cameras take low-fi photos
+*A **manual transmission**, often called a **stick shift**, is a type of gearbox used in vehicles that requires the driver to manually change gears using a **clutch pedal** and a **gear stick** (or shift lever).*
 
-A unique representation, exposure, f-stop, shutter speed, or ISO might be off
+*Manual transmissions have seen a significant decline in the U.S. automotive market over the past few decades. In 1995, approximately 26.8% of vehicles sold at CarMax featured manual transmissions. In 2018 that figure dropped to 3.7%*
 
-mistake and all
+*There has been a resurgence driven by younger drivers seeking a more engaging driving experience and a sense of nostalgia along with enthusiasts that continue to seek them out for the control and driving pleasure they offer*.^[<https://www.motor1.com/news/688239/more-manual-transmission-sales-indicate-shift-for-2023>]
 
-On the other hand,
+-   A summary by AI Assistant
 
-Cell phone photos are programmed to optimize everything
+---
 
-Therefore it is a faihful (too perfect) representation of the moment.
+![](images/DSC_1610_v1-EDIT.jpg)
 
-But no memory or life is perfect, it is flawed.
+Learned to drive a stick shift on streets of El Pueblo de Nuestra Señora la Reina de los Ángeles de Porciúncula,
 
-And flawed representation fits me better.
+Because Koreans were scattered throughout the mission and some outside the county, we were given an car, with an automatic transmission - A Chevrolet Chevette^[A front-engine, rear-drive subcompact hatchback available in 3- and 5-door configurations. It was Chevrolet's entry-level model, known for its affordability and simplicity].
 
-------------------------------------------------------------------------
+Initially, my senior companion, with 6 months remaining, drove exclusively around K-Town as well as many locations that required freeway driving.
 
-Need options or choices
+There was another set of Korean-speaking elders that covered the south half of the mission, that is mainly LA county and some of the Orange county.
 
-------------------------------------------------------------------------
+They also had a Chevette but their tan version had a manual transmission.
 
-Manual vs Auto
+Elder C from Hawaii suggested I learn how to drive it.
 
-Manual drivers can drive Auto cars but not the other way
+No pre-training, we just drove around the streets of Bellflower and Norwalk and hoped I would learn.
 
-Learned to drive stick shift on mission
+In the beginning, stalled out the engine due to improper timing between the clutch pedal and the stick shift.
 
-------------------------------------------------------------------------
+But after making a few drivers upset along the Rosecrans Avenue, I got the hang of it.
 
-Even if one was to override the algorithm and take a bad shot, there is no way to know what caused the error to occur.
+---
+
+DIdn't have a car during college years.
+
+Going out to college, as a graduate student, my parents bought a car for me.
+
+Opted for a Subaru Station Wagon, a DL model with a 4WD.
+
+The car served me well with its ample cargo space, with a fold down 2nd row seats.
+
+However when Sister K married me, she didn't know how to drive a manual.
+
+Gave an effort to teach her but I was not as efficient nor patient as Elder C.
+
+We didn't get very far, Sister K enlisted help of a her friend and she could drive the Subaru while I was at school.
+
+When we bought, with help from our parents, a Mercury Villager, Sister K was elated.
+
+She could take children to school and was free from the clutch and stick routine.
+
+---
+
+Even if one was able to override the algorithm and take a bad shot, it would be difficult to pin-point what contributed to photos being out of focus.
 
 Much like the Artificial Intelligence aided, enabled understanding and task completion, the essential part of growth and learning has been eliminated.
 
-The agency or choice is not available in instant photo taking and AI generated answers.
+One cannot kill an engine, not easily.
 
-In making photos, like in other efforts in life, mistakes will be made.
+That agency or choice is not available in press-button photo taking and AI generated answers.
+
+In taking or making photos, like in other efforts in life, mistakes should be made.
 
 In those mistakes, lessons are given and learned.
 
 ------------------------------------------------------------------------
 
-The Equipment
-
-My entire equipment cost me an equivalent of several camera lens filters.
-
-The gentleman that sold me the camera said,
+The gentleman that sold me the Nikon camera said,
 
 > I can no longer distinguish a focused vs un-focused photo, take it and see if you can take good shots.
 
@@ -88,17 +109,13 @@ I had to learn, or re-learn, the inter-relationship of the aperture opening, shu
 
 [^1]: ISO refers to the sensitivity of your camera's sensor (or film) to light
 
-Photos taken with this camera has a number of flaws. But it represents the reality better. That is, it matches what my eyes sees better than the cell phone photos.
+Photos taken with this camera has a number of flaws. But it represents the reality better. That is, it matches what my eyes sees better than the cell phone logic generated photos.
 
-If the purpose of the photo is to impress others pursue the cell phone and pursue equipment gathering
+Learned for myself, rather than pursuing skills and equipment to make photos like those of the professionals, make a photo or record of your own experience.
 
-Rather than pursuing skills and equipment to make photos like those of the professionals, make a photo or record of your own experience.
+If the goal or the pursuit is to understand how light is captured and processed, then purchase a used DSLR and go take pictures of unique offerings in the neighborhood
 
-However, if the goal or the pursuit is to understand how light is captured and processed, then purchase a used DSLR and go take a picture of a local item, all throughout the day
-
-Because
-
-How many iteration and derivatives do we need of {{Eiffel Tower}????}.
+![](images/20250422_222700~2-EDIT.jpg)
 
 ------------------------------------------------------------------------
 
@@ -122,7 +139,7 @@ Think of it like the **digital version of film** in old cameras.
 ## 📐 **Key Sensor Terms:**
 
 | **Term**                           | **What It Means**                                                                         |
-|------------------------------------|-------------------------------------------------------------------------------------------|
+|---------------------|---------------------------------------------------|
 | **Megapixels (MP)**                | How many million pixels the sensor has. More MPs = higher potential resolution.           |
 | **Full-frame Sensor**              | Same size as 35mm film. Great low-light performance and shallow depth of field.           |
 | **Crop Sensor (APS-C, Micro 4/3)** | Smaller than full-frame. Brings distant subjects closer, but can be noisier in low light. |
@@ -138,5 +155,3 @@ Think of it like the **digital version of film** in old cameras.
 -   It determines how much **detail and clarity** your camera can capture.
 
 ------------------------------------------------------------------------
-
-If you’d like, I can also show how **sensor size affects images** — or compare models like **full-frame vs APS-C** visually. Want to go there?
