@@ -149,7 +149,7 @@ Think of it like the **digital version of film** in old cameras.
 ## 📐 **Key Sensor Terms:**
 
 | **Term**                           | **What It Means**                                                                         |
-|---------------------|---------------------------------------------------|
+|------------------------------------|-------------------------------------------------------------------------------------------|
 | **Megapixels (MP)**                | How many million pixels the sensor has. More MPs = higher potential resolution.           |
 | **Full-frame Sensor**              | Same size as 35mm film. Great low-light performance and shallow depth of field.           |
 | **Crop Sensor (APS-C, Micro 4/3)** | Smaller than full-frame. Brings distant subjects closer, but can be noisier in low light. |
