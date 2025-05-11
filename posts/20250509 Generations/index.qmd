@@ -7,14 +7,14 @@ categories: [family]
 
 The speaker recited a well known proverb.
 
-That covers these scenarios \
-- 3 years of benefit \
-- 30 years of providence \
+That covers these scenarios\
+- 3 years of benefit\
+- 30 years of providence\
 - 3 generations of blessings
 
-Answer is \
-- a beautiful wife, \
-- a wife that enjoys cooking, and \
+Answer is\
+- a beautiful wife,\
+- a wife that enjoys cooking, and\
 - a wise woman
 
 Then he spoke of his mother, who grew up learning Chinese characters and later established genealogy centers for the Asian Languages.
@@ -23,22 +23,34 @@ Then he spoke of his mother, who grew up learning Chinese characters and later e
 
 Thought of women that have blessed my life.
 
-Two Kim Grandmothers 김옥돌 (2003) and 김연화 (1999).
-They both lived without their husbands for nearly 50 years. 
-Yet they provided for and raised their children with faith and love.
+Two Kim Grandmothers 김옥돌 (2003) and 김연화 (1999). They both lived without their husbands for nearly 50 years. Yet they provided for and raised their children with faith and love.
 
-I have felt their love directly. 
-I have benefited from their sacrifice on behalf of my parents.
+I have felt their love directly.
+
+Thank you for holding the family together.
+
+::: {#fig-grandmothers layout-ncol=2}
+
+![Grandmother 김연화, 76 years of age](images/LND_3C1CA46B-C8C3-4D71-9FEB-055071C0B2E0.JPG){#fig-materal}
+
+![Grandmother 김옥돌, in her 50s, sitted third from the left](images/511841808.525470.jpg){#fig-paternal}
+
+Maternal and Paternal Grandmothers
+:::
+
+---
 
 My mother 황현실(2023) and Sister K's mother 황영자 (2021). 
 They were married at a time when relatives arranged marriages. 
-Though, economically better off than previous generation, almost everything was scarce.
+Though, economically better off than previous generation, almost everything was scarce after the war.
 
 However, they both managed to make the money go further than humanly possible. 
 And made the children feel that all is well and the future will be a lot better.
 
 Both Sister K and I fondly recall and recite their teachings. 
 We miss their strength and wisdom.
+
+Thank you for establishing both spiritual and temporal foundations
 
 All four women gave themselves fully to raise children in love.
 
