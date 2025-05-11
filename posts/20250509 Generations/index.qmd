@@ -1,5 +1,5 @@
 ---
-title: "Generations"
+title: "Past Generations"
 author: "DK"
 date: "2025-05-09"
 categories: [family]
@@ -31,7 +31,7 @@ Thank you for holding the family together.
 
 ::: {#fig-grandmothers layout-ncol=2}
 
-![Grandmother 김연화, 76 years of age](images/LND_3C1CA46B-C8C3-4D71-9FEB-055071C0B2E0.JPG){#fig-materal}
+![Grandmother 김연화, at 76 years of age](images/LND_3C1CA46B-C8C3-4D71-9FEB-055071C0B2E0.JPG){#fig-materal}
 
 ![Grandmother 김옥돌, in her 50s, sitted third from the left](images/511841808.525470.jpg){#fig-paternal}
 
