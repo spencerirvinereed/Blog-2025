@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="DK">
-<meta name="dcterms.date" content="2025-04-27">
+<meta name="dcterms.date" content="2025-04-29">
 
-<title>Empire Builders – Events Blog</title>
+<title>Fall of Saigon – Events Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,6 +21,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -68,6 +102,16 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="../../site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+<script src="../../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<script src="../../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<link href="../../site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+<script src="../../site_libs/leaflet-1.3.1/leaflet.js"></script>
+<link href="../../site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+<script src="../../site_libs/proj4-2.6.2/proj4.min.js"></script>
+<script src="../../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+<link href="../../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+<script src="../../site_libs/leaflet-binding-2.2.2/leaflet.js"></script>
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -115,10 +159,9 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Empire Builders</h1>
+      <h1 class="title">Fall of Saigon</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">life</div>
-                <div class="quarto-category">lessons</div>
+                <div class="quarto-category">refugee</div>
               </div>
                   </div>
   </div>
@@ -136,7 +179,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">April 27, 2025</p>
+        <p class="date">April 29, 2025</p>
       </div>
     </div>
     
@@ -155,59 +198,80 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<blockquote class="blockquote">
-<p>…the mighty Empire Builder takes you on an exciting adventure through majestic wilderness, following the footsteps of early pioneers</p>
-<p>the Empire Builder Train narrative</p>
-</blockquote>
-<p>Took a visit to a coastal city about 680 miles to the south of the western terminus of the Empire Builder Line.</p>
-<p>That city was also featured in the Disney animation, Big Hero 6.</p>
+<p>One of the benefits of living in US and working in the Beehive State is meeting a diverse group of people.</p>
+<p>Including people that were born, raised in other cultures and immigrated from countries all over the globe.</p>
+<p>Although precise statistics is not available, there are a significant portion of the population that knows of the culture and speak languages other than English (LOTE).</p>
+<p>It is estimated that 55 languages are taught at the Missionary Training Center and some 65% of the students of Brigham Young University speak a LOTE.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 <hr>
-<p>While waiting for the plane at PVU, met 3 sets of friends</p>
-<p>A young man in the neighborhood, who will be married in June.</p>
-<p>A co-worker from 10 years ago, Spencer W.</p>
-<p>A former Mission President of Korea Seoul Mission (KSM)</p>
-<p>Was offered a ticket to the SF Giants game.</p>
-<p>We passed it on to our son and we dined nearby</p>
+<p>Working with fellow immigrants have afforded a chance to learn about people with different background than mine.</p>
+<p>Also learn about their history and culture, without actually visiting their country.</p>
+<p>Most of all, understanding the common thread of human existence. A quest for freedom, a place to call home, and a chance to improve the living standard.</p>
 <hr>
-<p>The room was filled with 4 families and each family had 4 children.</p>
-<p>It was chaotic and organized at the same time.</p>
-<p>Reminded of the verse in Jacob,</p>
-<blockquote class="blockquote">
-<p>Behold, their <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/3?lang=eng#note7a">husbands</a> <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/3?lang=eng#note7b">love</a> their <a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/3?lang=eng#note7c">wives</a>, and their wives love their husbands; and their husbands and their wives love their children;</p>
-<p>Jacob 3:7</p>
-</blockquote>
-<p>Next day, a meal at the home of the parents.</p>
-<p>One side of their large living room was covered with family photos.</p>
-<p>4 Sons and 1 daughter and their families.</p>
-<p>All of the family had 4 children.</p>
-<p>From a marriage in the 1980s, there are now 20 grandchildren.</p>
-<hr>
-<p>Prior to lunch, the father took me on a tour of their house.</p>
-<p>Their original home was nearly doubled.</p>
-<p>In the back of their home was an addition, nearly the size of their original house, built by him.</p>
-<p>The work area contained equipment and future projects of all types.</p>
-<p>Next to his work area was a sewing room for his wife.</p>
-<p>To the southeast of their house was a chicken coop of a dozen chickens.</p>
-<p>Directly east was a half dozen raised garden beds.</p>
-<p>On the day of our visit, they held a belated Easter Egg Hunt.</p>
-<p>20 excited grandchildren plus invited guests’ children were let loose.</p>
-<p><img src="images/20250427_131221.jpg" class="img-fluid"></p>
-<p><img src="images/20250427_130205.jpg" class="img-fluid"></p>
-<p><img src="images/20250427_125914.jpg" class="img-fluid"></p>
-<p><img src="images/20250427_125712.jpg" class="img-fluid"></p>
-<hr>
-<p>Repair and Restore</p>
-<p>1971 VW from Mendin NV was waiting its turn to be worked on.</p>
-<p>They know how to work the land and fix things.</p>
-<p>They will never run out of things to be worked on.</p>
-<p>They, their children, and their children will never say, I am bored.</p>
-<p>When they are in the presence of their grandparents, they will talk of work and practice building things.</p>
-<p>Their 1/4 acre 1,011.72 square meters or 10,890 square feet.</p>
-<p>A family that is building an empire.</p>
+<p>Though I have not visited South America I had the opportunity of meeting and working with people from Perú, Colombia, and Brazil all within the same company.</p>
+<p>In addition I have met people from Bulgaria and Iran and number of people that have served their missions in countries that speak Spanish, Chinese Mandarin and Swedish among others</p>
+<p>Recently coworker moved into the same building and we visited over our common interest – audio equipment.</p>
+<p>He is a fan of Nakamichi any particular Nelson Pass<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>designed equipment.</p>
+<p>We also shared a mutual affinity to analog records.</p>
+<p>Then he mention that he came over from Australia in 1992</p>
+<p>Also,he told he was from Vietnam, in particular from south Vietnam. He was from a wealthy family but when the communist took over 50 years ago, in April 1975 his family was devastated and they look for ways to escape.</p>
+<p>Using their reserve of gold they got on a boat and endured 2 weeks of travel through Malaysia, Singapore and eventually to a small off the main islands of Indonesia.</p>
+<p>Refugees were then interviewed by representatives from countries that took in the <code>Boat People</code> According to Wikipedia, significant numbers resettled in the United States, Canada, Italy, Australia, France, West Germany, and the United Kingdom.</p>
+<p>However my friend settled in Australia and lived for a decade before moving to the United States.</p>
+<section id="journey-of-lao" class="level2">
+<h2 class="anchored" data-anchor-id="journey-of-lao">Journey of Lao</h2>
+<p>that took up to Malaysia from there they went to Singapore from Singapore on to Indonesia it from Indonesia they went to Australia and to help with their family he went came tonight states since my father also lived and worked in Vietnam share some of his old photographs that I had on my phone what brings people to Utah them here</p>
+<p>500 miles : Vietnam to Malaysia 400 miles : Malaysia to Singapore 250 miles : Singapore to Bangka Islands</p>
+<p>His boat journey took nearly 2 weeks.</p>
+<p>Starting at Can Tho</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Load leaflet</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(leaflet)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Coordinates for central Saigon (District 1 area)</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>lat <span class="ot">&lt;-</span> <span class="fl">10.04432637972083</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>lng <span class="ot">&lt;-</span> <span class="fl">105.74726945658837</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Create map</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">leaflet</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">addTiles</span>() <span class="sc">%&gt;%</span>  <span class="co"># Default OpenStreetMap tiles</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">setView</span>(<span class="at">lng =</span> lng, <span class="at">lat =</span> lat, <span class="at">zoom =</span> <span class="dv">10</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">addMarkers</span>(<span class="at">lng =</span> lng, <span class="at">lat =</span> lat, <span class="at">popup =</span> <span class="st">"Cần Thơ, Vietnam"</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">addCircles</span>(<span class="at">lng =</span> lng, <span class="at">lat =</span> lat, <span class="at">radius =</span> <span class="dv">500</span>, <span class="at">color =</span> <span class="st">"red"</span>, <span class="at">fillOpacity =</span> <span class="fl">0.2</span>,</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>             <span class="at">popup =</span> <span class="st">"Set on the southern bank of the Hau River"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-1f3d4c8aa0d671c08514" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-1f3d4c8aa0d671c08514">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[10.04432637972083,105.7472694565884,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Cần Thơ, Vietnam",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addCircles","args":[10.04432637972083,105.7472694565884,500,null,null,{"interactive":true,"className":"","stroke":true,"color":"red","weight":5,"opacity":0.5,"fill":true,"fillColor":"red","fillOpacity":0.2},"Set on the southern bank of the Hau River",null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null,null]}],"setView":[[10.04432637972083,105.7472694565884],10,[]],"limits":{"lat":[10.04432637972083,10.04432637972083],"lng":[105.7472694565884,105.7472694565884]}},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+<p>Their compass broke after a few days.</p>
+<p>They relied on their navigation skills and southern constellation stars</p>
+<p><img src="images/southern constellations.png" class="img-fluid"></p>
+<p>Their source of water was a tarp that collected dews (condensation) and rains</p>
+<p>Vietnamese boat people without compasses relied on a combination of traditional navigational techniques, celestial guidance, and observation of natural phenomena to navigate</p>
+<p><a href="https://en.wikipedia.org/wiki/Vietnamese_boat_people?oldformat=true" class="uri">https://en.wikipedia.org/wiki/Vietnamese_boat_people?oldformat=true</a></p>
+<p>According my friend, nearly 1 million people perished.</p>
+<p>The wikipedia puts the number between 200,000 to 400,000</p>
+<p>The total number of people that fled the country is nearly 800,000</p>
+<p>They were interviewed by a number of countries, as if applying for a job</p>
+<p>They fled, we flew</p>
+<p>Encountered pirates as they approached Malaysian coast and were forcefully towed out of Singapore harbor</p>
+<p>Our family took a more direct route, Seoul to Alaska to Chicago then Washington DC</p>
+<p>Seong came here on their foot pushing and pulling others came to skate scape scape escape machines that took away basic human rights they come to work to associate and to build on their dreams my parents did so dead so first to Alaska they joined us later as many others have this interesting that many people that we need back in East are now here I came here for education after serving 18 months in Los Angeles at that time I didn’t know what turned out to be a 40 year commitment or multi decade commitment we have settled and we work looking back it was a tremendous journey journey like to thank the people in Utah accepting accepting or allowing us to prosper</p>
+<p>Thomas soul once said that latter-day Saints live on average 10 years or longer dead population the comparison population why is that he said they don’t drink drugs and then I go around shooting each othe there was a time when I wish that we were also elsewhere of popular states or some of the East Coast or even Hawaii but now many years later so people are choosing to join us I believe because the majority of the people still adhere to millennia old commandments love God and your little neighbor and start this practice at home</p>
+<p>Why am I here</p>
+<p>Not a forced upon me, no one asked me to live here. I made that choice</p>
 
 
+</section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Chat GPT<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p><a href="https://en.wikipedia.org/wiki/Nelson_Pass?oldformat=true" class="uri">https://en.wikipedia.org/wiki/Nelson_Pass?oldformat=true</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

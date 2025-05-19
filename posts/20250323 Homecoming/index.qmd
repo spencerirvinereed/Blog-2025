@@ -5,8 +5,7 @@ date: "2025-03-23"
 categories: [homecoming]
 ---
 
-Never grasped Einstein's Theory of Relativity, specifically Special Relativity. 
-Often explained through a tale about an astronaut traveling at near light speed and then returning to Earth.
+Never grasped Einstein's Theory of Relativity, specifically Special Relativity. Often explained through a tale about an astronaut traveling at near light speed and then returning to Earth.
 
 However, I do know that passage of time feels different and seem relative when a family member is away, serving a mission for example.
 
@@ -18,13 +17,15 @@ Most common responses are,
 
 "Oh are they already coming back, thought they just left"
 
-Special Relative Theory describes and explains^[ChatGPT-4-turbo],
+Special Relative Theory describes and explains[^1],
 
-- Space and time are **not absolute**; they are interconnected in **spacetime**.
+[^1]: ChatGPT-4-turbo
 
-- High speeds cause space contraction and time dilation, effects predicted and confirmed by relativity.
+-   Space and time are **not absolute**; they are interconnected in **spacetime**.
 
----
+-   High speeds cause space contraction and time dilation, effects predicted and confirmed by relativity.
+
+------------------------------------------------------------------------
 
 ![](images/20240420_083309.jpg)
 
@@ -48,7 +49,9 @@ And they struggled with discouragement and overcame with patience and perseveran
 
 > 27 Now when our hearts were depressed, and we were about to [turn](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng#note27a) back, behold, the Lord [comforted](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng#note27b) us, and said: Go amongst thy brethren, the Lamanites, and bear with [patience](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng#note27c) thine [afflictions](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng#note27d), and I will give unto you success.
 
-Perhaps, in their progress through trials, they felt something akin to Levin's ephiphany in Anna Karenina^[<https://www.felixstocker.com/blog/levin>].
+Perhaps, in their progress through trials, they felt something akin to Levin's ephiphany in Anna Karenina[^2].
+
+[^2]: <https://www.felixstocker.com/blog/levin>
 
 > The longer Levin went on mowing, the oftener he experienced those moments of oblivion when his arms no longer seemed to swing the scythe, but the scythe itself his whole body, so conscious and full of life; and as if by magic, regularly and definitely without a thought being given to it, the work accomplished of its own accord. These were blessed moments.
 
@@ -62,7 +65,7 @@ Likewise the one sharing the Good News realized anew,
 
 Welcome home Sister L.
 
----
+------------------------------------------------------------------------
 
 ## Open AI Explanation of Special Relativity
 
