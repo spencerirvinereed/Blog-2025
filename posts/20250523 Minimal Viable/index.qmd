@@ -25,9 +25,13 @@ Now I am beginning to live my life, in a similar manner, one that I used to ques
 
 ------------------------------------------------------------------------
 
-One of the earliest memories is walking to 화랑교회
+One of the earliest memories is walking to 화랑교회, next to 화랑농장[^2].
 
-Like many childhood recollections, it was dark, cold and cries of wild animals was representative of the post-war Korea
+[^2]: <https://m.blog.naver.com/spindraw/222234545501>
+
+Like many childhood recollections, it was dark, cold and cries of wild animals was representative of the post-war Korea.
+
+(based on the map, the walking distance was about a 1km).
 
 Photos from those days were captured in black and white.
 
@@ -35,19 +39,25 @@ It may as well have been a life devoid of colors or conveniences.
 
 For the first 6 years of my life, we lived in a home that had no Television, Telephone or in-house plumbing.
 
-When we moved from 부평 to 주안, we got the running water, a black rotary phone (one-digit for the station, and 4 individually assigned number), and a black and white TV that pulled in all three major TV (MBC, TBC, and KBS) stations[^2] and the forerunner to AFKN broadcasting^[<https://en.wikipedia.org/wiki/American_Forces_Network#:\~:text=AFKN%20began%20TV%20operations%20on,aired%20on%204%20January%201959.>]
+When we moved from 부평 to 주안, we got the running water, a black rotary phone (one-digit for the station, and 4 individually assigned number), and a black and white TV that pulled in all three major TV (MBC, TBC, and KBS) stations[^3] and the forerunner to AFKN broadcasting[^4]
 
-[^2]: see, Origin Section of <https://www.britannica.com/art/Korean-drama>
+[^3]: see, Origin Section of <https://www.britannica.com/art/Korean-drama>
+
+[^4]: [https://en.wikipedia.org/wiki/American_Forces_Network#:\\\~:text=AFKN%20began%20TV%20operations%20on,aired%20on%204%20January%201959.](https://en.wikipedia.org/wiki/American_Forces_Network#:~:text=AFKN%20began%20TV%20operations%20on,aired%20on%204%20January%201959.){.uri}
 
 We were considered an early adopter family.
 
 ------------------------------------------------------------------------
 
-Nearly everyone in the family, and the majority of the Korean population, belonged to a Christian congregation.
+Nearly everyone in the family, and the significant portion of Koreans[^5], belonged to a Christian congregation.
+
+[^5]: see section below
+
+![](images/christians_korea.png)
 
 Prevailing denomination at the time in Korea was Presbyterian group.
 
-Growing up I thought 장로교회 was the major branch of Chrisitianity.
+Growing up I thought 장로교회 was the major branch of Christianity.
 
 I attended the church, not because I understood the doctrine, but because it was the family tradition.
 
@@ -85,21 +95,19 @@ I had won the lottery, I felt like we were the richest family in the region.
 
 ------------------------------------------------------------------------
 
-My life in 부평/주안 area of Incheon contained within 30 square miles or an area circumscribed by a 5km radius.
+My life in 부평/주안 area of Incheon were contained within 30 square miles or an area circumscribed by a 5km radius.
 
 We walked everywhere and if lucky, we hopped on one of the local buses.
 
-Seoul was about 10 miles away but we wouldn't travel there unless we were visiting family members. 
-One exception was a visit to 동물원 (動物園).
+Seoul was about 10 miles away but we wouldn't travel there unless we were visiting family members. One exception was a visit to 동물원 (動物園).
 
 ## A Trip to 김해
 
-My dad's youngest sibling, who was 13 years younger, lived with us. 
-My mom and he made a pact.
+My dad's youngest sibling, who was 13 years younger, lived with us. My mom and he made a pact.
 
 As long as he passed the entrance exams, my parents would fund his education.
 
-However, my parents ran into a difficult stretch financially. My mom suggested he take a break from study and volunteer for a military. 
+However, my parents ran into a difficult stretch financially. My mom suggested he take a break from study and volunteer for a military.
 
 (military service in those days were not mandatory)
 
@@ -111,7 +119,7 @@ At the time he was stationed at 김해공명학교, performing civil engineering
 
 The distance from 인천 to 김해 is about 500 km.
 
-I imagine trains in those days traveled about 50km per hour. But I remember my mother and I visited the youngest brother of my father. 
+I imagine trains in those days traveled about 50km per hour. But I remember my mother and I visited the youngest brother of my father.
 
 During his military service, the service rendered because of financial struggles.
 
@@ -134,3 +142,43 @@ God-centered, frugal, family-centered life.
 -   Memorial Day, 2025
 
 ![](images/20250515_113048.jpg)
+
+In the **1960s**, the percentage of Christians in **South Korea** was relatively small but growing rapidly. Here's a breakdown:
+
+### 📊 Estimated Christian Population in South Korea (1960s)-
+
+-   **1960**: About **2.9 million Christians**
+
+<!-- -->
+
+-   South Korea's total population at that time was around **25 million**
+
+### ➤ Estimated Percentage:
+
+-   Christians made up approximately **11–12%** of the population in the early 1960s.
+
+### ➤ Breakdown by Denomination:
+
+-   **Protestants**: \~9–10%
+
+<!-- -->
+
+-   **Catholics**: \~1–2%
+
+    ------------------------------------------------------------------------
+
+### 📈 Rapid Growth:
+
+Christianity, especially **Protestantism**, expanded quickly in the decades that followed due to:
+
+-   Urbanization and modernization
+
+<!-- -->
+
+-   Western influence (especially post-Korean War)
+
+-   Active missionary efforts
+
+-   Christian involvement in education and social services
+
+By the **1980s**, Christians made up over **30%** of the population.
