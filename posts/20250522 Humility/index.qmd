@@ -1,0 +1,14 @@
+---
+title: "No Comparison"
+author: "DK"
+date: "2025-05-22"
+draft: yes
+categories: [comparison]
+---
+
+*Paraphrased from themes in Dag Hammarskjöld’s* Markings^[<https://www.daghammarskjold.se/publication/readers-guide-dag-hammarskjolds-waymarks/>]:
+
+> "Humility is just as much the opposite of self-abasement as it is of self-exaltation. To be humble is not to make comparisons, secure in its reality, the self is neither better nor worse, bigger nor smaller, than anything else in the universe. It is nothing, yet at the same time one with everything. It is in this sense that humility is absolute self-effacement."\
+> - *Dag HammarskjÖld*
+
+![](images/DSC_2822.JPG)
