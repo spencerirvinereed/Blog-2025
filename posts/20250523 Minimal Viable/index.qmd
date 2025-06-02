@@ -33,13 +33,22 @@ Like many childhood recollections, it was dark, cold and cries of wild animals w
 
 (based on the map, the walking distance was about a 1km).
 
+```{r}
+library(leaflet)
+
+# Create leaflet map
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = 126.70201641088923, lat = 37.49134825570369, popup = "화랑농장")
+```
+
 Photos from those days were captured in black and white.
 
 It may as well have been a life devoid of colors or conveniences.
 
 For the first 6 years of my life, we lived in a home that had no Television, Telephone or in-house plumbing.
 
-When we moved from 부평 to 주안, we got the running water, a black rotary phone (one-digit for the station, and 4 individually assigned number)\^\[according to my sibling our number was3-3204\], and a black and white TV that pulled in all three major TV (MBC, TBC, and KBS) stations[^3] and the forerunner to AFKN broadcasting[^4]
+When we moved from 부평 to 주안, we got the running water, a black rotary phone (one-digit for the station, and 4 individually assigned number)^[according to my sibling our number was3-3204], and a black and white TV that pulled in all three major TV (MBC, TBC, and KBS) stations[^3] and the forerunner to AFKN broadcasting[^4]
 
 [^3]: see, Origin Section of <https://www.britannica.com/art/Korean-drama>
 

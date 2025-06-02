@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="DK">
-<meta name="dcterms.date" content="2025-05-26">
+<meta name="dcterms.date" content="2025-05-28">
 
-<title>Minimally Viable – Events Blog</title>
+<title>Korean Restaurant – Events Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,40 +21,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -102,16 +68,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-label": "Search"
   }
 }</script>
-<link href="../../site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
-<script src="../../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
-<script src="../../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<link href="../../site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
-<script src="../../site_libs/leaflet-1.3.1/leaflet.js"></script>
-<link href="../../site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
-<script src="../../site_libs/proj4-2.6.2/proj4.min.js"></script>
-<script src="../../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
-<link href="../../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
-<script src="../../site_libs/leaflet-binding-2.2.2/leaflet.js"></script>
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -159,10 +115,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Minimally Viable</h1>
+      <h1 class="title">Korean Restaurant</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">life</div>
-                <div class="quarto-category">essentials</div>
+                <div class="quarto-category">culture</div>
               </div>
                   </div>
   </div>
@@ -180,7 +135,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">May 26, 2025</p>
+        <p class="date">May 28, 2025</p>
       </div>
     </div>
     
@@ -199,163 +154,27 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<p>At work, we often discuss MVP or Minimally Viable Product,</p>
-<blockquote class="blockquote">
-<p>“The version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort.”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
-</blockquote>
-<p>My parents lived a version of MVP as it applies to life,</p>
-<blockquote class="blockquote">
-<p><em>“The simplest version of a meaningful life that meets your essential needs with clarity, purpose, and sustainability—without excess.”</em></p>
-<ul>
-<li>AI Assistant (ChatGPT Plus)</li>
-</ul>
-</blockquote>
-<p>The lives in Korea for my parents and nearly all Koreans, after the Korean War, meant survival,</p>
-<p>There were no options for them.</p>
-<p>Now I am beginning to live my life, in a similar manner, one that I used to question.</p>
-<hr>
-<p>One of the earliest memories is walking to 화랑교회, next to 화랑농장<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>.</p>
-<p>Like many childhood recollections, it was dark, cold and cries of wild animals was representative of the post-war Korea.</p>
-<p>(based on the map, the walking distance was about a 1km).</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(leaflet)</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Create leaflet map</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">leaflet</span>() <span class="sc">%&gt;%</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">addTiles</span>() <span class="sc">%&gt;%</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">addMarkers</span>(<span class="at">lng =</span> <span class="fl">126.70201641088923</span>, <span class="at">lat =</span> <span class="fl">37.49134825570369</span>, <span class="at">popup =</span> <span class="st">"화랑농장"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-7d985ea60a6896fbd017" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-7d985ea60a6896fbd017">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[37.49134825570369,126.7020164108892,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"화랑농장",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[37.49134825570369,37.49134825570369],"lng":[126.7020164108892,126.7020164108892]}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
-<p>Photos from those days were captured in black and white.</p>
-<p>It may as well have been a life devoid of colors or conveniences.</p>
-<p>For the first 6 years of my life, we lived in a home that had no Television, Telephone or in-house plumbing.</p>
-<p>When we moved from 부평 to 주안, we got the running water, a black rotary phone (one-digit for the station, and 4 individually assigned number)<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>, and a black and white TV that pulled in all three major TV (MBC, TBC, and KBS) stations<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> and the forerunner to AFKN broadcasting<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
-<p>We were considered an early adopter family.</p>
-<hr>
-<p>Nearly everyone in the family, and the significant portion of Koreans<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a>, belonged to a Christian congregation.</p>
-<p><img src="images/christians_korea.png" class="img-fluid"></p>
-<p>Prevailing denomination at the time in Korea was Presbyterian group.</p>
-<p>Growing up I thought 장로교회 was the major branch of Christianity.</p>
-<p>I attended the church, not because I understood the doctrine, but because it was the family tradition.</p>
-<p>I did look forward to the Easter and the Christmas.</p>
-<p>Some kind of treat was handed out and any kind of food or sweets tasted good and were treasured.</p>
-<hr>
-<p>I don’t recall what we ate growing up.</p>
-<p>I do remember, on special occasions, holidays and the big family gatherings, Mom would purchase a small fraction of 근 (600 grams) of pork to be added to the soup.</p>
-<p>A positive development during those years was the crate of apples.</p>
-<section id="apple-crate-days" class="level2">
-<h2 class="anchored" data-anchor-id="apple-crate-days">Apple Crate Days</h2>
-<p>I was called 사과대장 or Apple Captain because I would eat every bit of apple down to very core.</p>
-<p>Not sure if that was because I liked the fruit or to avoid hunger.</p>
-<p>Anyhow, the nickname stuck.</p>
-<p>When my father went to Vietnam to work, the family could afford a few more basics things in life.</p>
-<p>In one of his letters home, he told my mother to purchase a crate of apples for me to eat.</p>
-<p>I could have an apple on demand.</p>
-<p>We kept the box under an old desk and I would reach into the box and search for the apple among the rice husk that was used as the packaging material.</p>
-<p>I had won the lottery, I felt like we were the richest family in the region.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/EPSON017-EDIT.jpg" class="img-fluid figure-img"></p>
-<figcaption>Apple Crate Days</figcaption>
-</figure>
-</div>
-<hr>
-<p>My life in 부평/주안 area of Incheon were contained within 30 square miles or an area circumscribed by a 5km radius.</p>
-<p>We walked everywhere and if lucky, we hopped on one of the local buses.</p>
-<p>Seoul was about 10 miles away but we wouldn’t travel there unless we were visiting family members. One exception was a visit to 동물원 (動物園).</p>
-</section>
-<section id="a-trip-to-김해" class="level2">
-<h2 class="anchored" data-anchor-id="a-trip-to-김해">A Trip to 김해</h2>
-<p>My dad’s youngest sibling, who was 13 years younger, lived with us. My mom and he made a pact.</p>
-<p>As long as he passed the entrance exams, my parents would fund his education.</p>
-<p>However, my parents ran into a difficult stretch financially. My mom suggested he take a break from study and volunteer for a military service.</p>
-<p>(military service in those days were not mandatory)</p>
-<p>Understanding the family situation, my uncle volunteered.</p>
-<p>Either due to his exam taking skills or propensity for studying, he earned a family visit credit.</p>
-<p>At the time he was stationed at 김해공명학교, performing civil engineering duties within the military.</p>
-<p>The distance from 인천 to 김해 is about 500 km.</p>
-<p>I imagine trains in those days traveled about 50km per hour. But I remember my mother and I visited the youngest brother of my father.</p>
-<p>During his military service, the service rendered because of financial struggles.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/EPSON019-EDIT.jpg" class="img-fluid figure-img"></p>
-<figcaption>Uncle after the military service</figcaption>
-</figure>
-</div>
-<hr>
-<p>Now I live in an era where I am reminded what Maximally Achievable Life looks like and ways I can achieve it.</p>
-<p>I am grateful that life’s essentials are granted by virtue of being a citizen of developed nations of the world.</p>
-<p>That the freedom of expression is not limited,</p>
-<blockquote class="blockquote">
-<p>Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.</p>
-</blockquote>
-<p>A gratitude to my parents for demonstrating how to live in a times of plenty and of famine.</p>
-<p>God-centered, frugal, family-centered life.</p>
-<ul>
-<li>Memorial Day, 2025</li>
-</ul>
-<p><img src="images/20250515_113048.jpg" class="img-fluid"></p>
-<p>In the <strong>1960s</strong>, the percentage of Christians in <strong>South Korea</strong> was relatively small but growing rapidly. Here’s a breakdown:</p>
-<section id="estimated-christian-population-in-south-korea-1960s-" class="level3">
-<h3 class="anchored" data-anchor-id="estimated-christian-population-in-south-korea-1960s-">📊 Estimated Christian Population in South Korea (1960s)-</h3>
-<ul>
-<li><strong>1960</strong>: About <strong>2.9 million Christians</strong></li>
-</ul>
-<!-- -->
-<ul>
-<li>South Korea’s total population at that time was around <strong>25 million</strong></li>
-</ul>
-</section>
-<section id="estimated-percentage" class="level3">
-<h3 class="anchored" data-anchor-id="estimated-percentage">➤ Estimated Percentage:</h3>
-<ul>
-<li>Christians made up approximately <strong>11–12%</strong> of the population in the early 1960s.</li>
-</ul>
-</section>
-<section id="breakdown-by-denomination" class="level3">
-<h3 class="anchored" data-anchor-id="breakdown-by-denomination">➤ Breakdown by Denomination:</h3>
-<ul>
-<li><strong>Protestants</strong>: ~9–10%</li>
-</ul>
-<!-- -->
-<ul>
-<li><p><strong>Catholics</strong>: ~1–2%</p>
-<hr></li>
-</ul>
-</section>
-<section id="rapid-growth" class="level3">
-<h3 class="anchored" data-anchor-id="rapid-growth">📈 Rapid Growth:</h3>
-<p>Christianity, especially <strong>Protestantism</strong>, expanded quickly in the decades that followed due to:</p>
-<ul>
-<li>Urbanization and modernization</li>
-</ul>
-<!-- -->
-<ul>
-<li><p>Western influence (especially post-Korean War)</p></li>
-<li><p>Active missionary efforts</p></li>
-<li><p>Christian involvement in education and social services</p></li>
-</ul>
-<p>By the <strong>1980s</strong>, Christians made up over <strong>30%</strong> of the population.</p>
+<p>A quandary inducing question</p>
+<p>Where are you from</p>
+<p>Which is your favorite Korean restaurant</p>
+<p>Is it authentic?</p>
+<p>The question most difficult to answer is a Korean American next to the one that says where are you from is this what is your favorite Korean restaurant the honest answer is I don’t have one or my house however to keep the conversation going I sometimes answer all the one in Los Angeles about 600 miles away or maybe one in Las Vegas or ones in Korea at times I say each one of the local Korean restaurants have its distinguishing dishes but in reality Korean food is one of those that or not suited for mass production and difficult to make it on demand I was very surprised when I travel to China during the summer of 1997 the ti landed at old on Charles airport and state in typing young Sheraton hotel from there we drove over to bamboo grove hotel in sugar and I was shocked the food that the hotel staff created it wasn’t anything like I tasted in US I didn’t taste sauce I actually tasted the food</p>
+<p>And it was freshly cooked</p>
+<p>The fruit the Chinese food I tasted in America was not representative of what the Chinese food people eat and subsequently unlearn each region has his own unique offerings taste flavor fact food in Suzhou and its counterpart in Shanghai only separated by 100 miles no hundred kilometers taste different as they are in Hangzhou</p>
+<p>During my last visit to Southern California my old apartment mate doing missionary days met me in early morning temps Alma Seo 5 miles from the airport according to him this place got busy so we moved up the time 10:30 AM not usually a big eater that early in the morning but I ate well I didn’t have to water heat you want to wate I was grateful for free and brought back</p>
+<p>우산슬</p>
+<p><a href="https://namu.wiki/w/%EC%9C%A0%EC%82%B0%EC%8A%AC" class="uri">https://namu.wiki/w/%EC%9C%A0%EC%82%B0%EC%8A%AC</a></p>
+<p>유산슬 또는 류산슬은 <a href="https://namu.wiki/w/%ED%95%9C%EA%B5%AD%EC%8B%9D%20%EC%A4%91%ED%99%94%20%EC%9A%94%EB%A6%AC" title="한국식 중화 요리">한국식 중화 요리</a>의 일종으로 <a href="https://namu.wiki/w/%EA%B3%A0%EA%B8%B0" title="고기">육류</a>와 <a href="https://namu.wiki/w/%ED%95%B4%EC%82%B0%EB%AC%BC" title="해산물">해산물</a> 등 세 가지 재료를 채썰어서 국물을 넣고 녹말에 졸여낸 요리다. <a href="https://namu.wiki/w/%ED%95%9C%EC%9E%90" title="한자">한자</a> 표기로는 溜三絲/溜三丝(liūsānsī, 려우싼쓰)다. 溜는 녹말을 넣어 미끌거리는 것, 三은 세 가지, 絲는 가늘게 채 썬 것들을 뜻한다.</p>
+<p>There’s a restaurant located in the area this was freaking frequented by Mýa visiting when you exactly which restaurant we would go to the dishes he would order the dish was calling you send me and he will order the bread that shit by the flower made from flower and if the kids came along he would order one of the street flavor dishes that was our favorite because he joins so muc much different than what is offered now Chinese dish I believe those dishes that we ate is a modification traditional offerings created by the owners passed on down to generations</p>
+<p>Korean food like most ethnic food needs to be made with love carefully planned at times preserved coordinated and served with pride and humility the pride of continuing the tradition set forth experimented curated by individuals that long pastor away love considering the welfare the health of individuals that would the offering in the joy of bringing together and the world of food ple please please PLAYS</p>
+<p>Aside from the difficulty of gathering offerings are materials ingredients food some food does not lend a self to early preparation preservation enhancement by sauce it Hass to be created by the piety individu</p>
+<p>For that certain cultures value the meal at whole fami curlier times in America it was customary not to visit all Collin families during their meal time in the absence of these mail times we are now a wholesale eating out culture</p>
+<p>So in order to make food more convenient cuts and trade-offs need to be made song are others not afraid when you combine to many of these trade-offs the football on the represents country version to say this</p>
+<p>So if I will give it a genie Genie take me back to a city a town near west of the river in the Panjang region of North Korea and drop me off size kitchen providing a feast to request fly me back to Kyoung young area put me in a home and invite guests oh never mind I forgot FaceTime Aladdin you can I guess that I had in mind so I will continue to go along carry on with given I suppose the other options to learn techniques and skills it bring about the food that I grew up with</p>
 
 
-</section>
-</section>
 
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p><a href="https://www.atlassian.com/agile/product-management/minimum-viable-product#:~:text=The%20concept%20of%20the%20minimum,customers%20with%20the%20least%20effort.%E2%80%9D" class="uri">https://www.atlassian.com/agile/product-management/minimum-viable-product#:~:text=The%20concept%20of%20the%20minimum,customers%20with%20the%20least%20effort.%E2%80%9D</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p><a href="https://m.blog.naver.com/spindraw/222234545501" class="uri">https://m.blog.naver.com/spindraw/222234545501</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3"><p>according to my sibling our number was3-3204<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn4"><p>see, Origin Section of <a href="https://www.britannica.com/art/Korean-drama" class="uri">https://www.britannica.com/art/Korean-drama</a><a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn5"><p><a href="https://en.wikipedia.org/wiki/American_Forces_Network#:~:text=AFKN%20began%20TV%20operations%20on,aired%20on%204%20January%201959." class="uri">https://en.wikipedia.org/wiki/American_Forces_Network#:\~:text=AFKN%20began%20TV%20operations%20on,aired%20on%204%20January%201959.</a><a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn6"><p>see section below<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
