@@ -34,6 +34,9 @@ Like many childhood recollections, it was dark, cold and cries of wild animals w
 (based on the map, the walking distance was about a 1km).
 
 ```{r}
+#| echo: false
+#| message: false
+#| warning: false
 library(leaflet)
 
 # Create leaflet map
