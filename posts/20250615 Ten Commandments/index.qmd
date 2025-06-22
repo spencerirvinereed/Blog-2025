@@ -2,7 +2,6 @@
 title: "Passover Easter"
 author: "DK"
 date: "2025-06-15"
-draft: yes
 categories: [transformation]
 ---
 
