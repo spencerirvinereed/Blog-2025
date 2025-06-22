@@ -1,0 +1,68 @@
+---
+title: "My Life"
+author: "DK"
+date: "2025-06-02"
+categories: [life]
+---
+
+Attended a gathering.
+
+The gathering organized by the `Empty Nesters`
+
+The mean and the median age of attendees was 70 years of age.
+
+The organizer and the host of the evening introduced the speaker,
+
+> Often we learn about the unknown part of a person on their funeral...
+
+The speaker said,
+
+> I am glad this is not my funeral today
+>
+> My life has been different than most
+>
+> I hope you learn something from it.
+
+The speaker and his wife celebrated their 60th wedding anniversary last year.
+
+We first met them, when we moved into the area some 25 years ago.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(leaflet)
+
+# Create leaflet map
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = -98.76019924518442, lat = 20.100969616918896, popup = "Pachuca Hidalgo")
+```
+
+His life started in the Hidalgo State in Mexico.
+
+3 women influenced his life.
+His aunt, his mom and his wife
+
+> There is nothing better on the face of the earth, the gospel
+
+
+
+## Museum of Mormon Mexican History
+
+He and his wife found a calling in life.
+A museum dedicated to the Mormon Saints in Mexico.
+
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(leaflet)
+
+# Create leaflet map
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = -111.65627966851787, lat = 40.25390357966943, popup = "Museum of Mormon Mexican History")
+```
+<https://museumofmormonmexicanhistory.com/about-us>

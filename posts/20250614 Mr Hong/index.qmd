@@ -1,0 +1,98 @@
+---
+title: "Hong Family"
+author: "DK"
+date: "2025-06-14"
+draft: yes
+categories: [aging]
+---
+
+There are 2 families you will spend much time in this life.
+
+The one you are born into and the other you choose to live with.
+
+In my case, I was born into the K family and I chose to spend time with Sister K and her family.
+
+------------------------------------------------------------------------
+
+First met Sister K's family a year after the marriage.
+
+I had met and known Sister K's older sister and her aunt in Utah, but never met the rest of the family.
+
+She told me about her big family.
+
+Her Grandfather remarried after his wife, 정기홍, passed away at age 44.
+
+Between 2 families there were a 11 siblings. 5 from the first wife and rest from the 2nd.
+
+Due to the age difference the first set of siblings and the second, the youngest aunt was only a few years older than Sister K.
+
+## Summer of 1990
+
+We visited Korea, during summer break.
+
+Their home is near 현충사, in a place called 뱀밭.
+
+Today it is called 백암리.
+
+Nearly everyone in that village was related.
+
+```{r}
+# Load leaflet library
+library(leaflet)
+
+# Create a basic map centered on New York City
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap tiles
+  setView(lng = 127.0313140994977, lat = 36.80324442554868, zoom = 13) %>%
+  addMarkers(lng = 127.0313140994977, lat = 36.80324442554868, popup = "뱀밭")
+```
+
+A few houses down was Sister K's Grandfather's younger brother's house.
+
+A few house further was a 육촌's **육촌** (六寸) house. child of your parent's cousin)
+
+They let use their main bedroom and they slept in a guest room.
+
+It was an old style home with no indoor plumbing and the animals shared the same living quarters.
+
+Had a pump for water.
+
+Cicadas sound and the bristle of the nearby trees made it seem like we had traveled back in time.
+
+Cooled by fan and natural flow of air.
+
+I had grown up with a few blood relatives, since most of them stayed in North Korea.
+
+It was wonderful to be accepted into the Hong clan
+
+Was invited to their annual family gathering held in 서울
+
+Reviewing the video, it was chaotic but felt closeness of siblngs.
+
+See <https://blog.naver.com/ilovalaska/50189404570>
+
+## Spring of 1999 - 19990418
+
+The work assignment took me back to Korea.
+
+The house had changed, it was modernized, not same as the old house.
+
+Again invited to a family gathering, this time, similar format but some singing
+
+## Visits to US - 1998 or 1997
+
+Stopped on their US Tour.
+
+Hosted at old Comanche Lane home.
+
+## Spring of 2006 to Southern Utah
+
+Rented an RV to visit Zion and Bryce
+
+<https://photos.app.goo.gl/frKSnTi8gVPt8tJaA>
+
+임종(臨終) Death
+
+발인(發靷) Interment
+
+발인

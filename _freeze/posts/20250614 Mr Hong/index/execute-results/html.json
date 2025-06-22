@@ -1,0 +1,19 @@
+{
+  "hash": "606a9085834d7c7ad4f357da24e3c712",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Hong Family\"\nauthor: \"DK\"\ndate: \"2025-06-14\"\ndraft: yes\ncategories: [aging]\n---\n\n\n\nFirst met Sister K's family a year after the marriage.\n\nI had known Sister K's older sister and her aunt but never met the rest of the family.\n\nShe told me about her big family.\n\nHer Grandfather remarried after his wife, 정기홍, passed away at age 44.\n\nBetween 2 families there were a dozen siblings.\n\nDue to the age difference, Sister K's aunts were only few years older than her.\n\n## Summer of 1990\n\nWe visited Korea, during summer break.\n\nTheir home is near 현충사, in a place called 뱀밭.\n\nNearly everyone in that village was related.\n\n36.80324442554868, 127.0313140994977\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Load leaflet library\nlibrary(leaflet)\n\n# Create a basic map centered on New York City\nleaflet() %>%\n  addTiles() %>%  # Add default OpenStreetMap tiles\n  setView(lng = 127.0313140994977, lat = 36.80324442554868, zoom = 13) %>%\n  addMarkers(lng = 127.0313140994977, lat = 36.80324442554868, popup = \"뱀밭\")\n```\n\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"leaflet html-widget html-fill-item\" id=\"htmlwidget-4c6f2d4286df193367a1\" style=\"width:100%;height:464px;\"></div>\n<script type=\"application/json\" data-for=\"htmlwidget-4c6f2d4286df193367a1\">{\"x\":{\"options\":{\"crs\":{\"crsClass\":\"L.CRS.EPSG3857\",\"code\":null,\"proj4def\":null,\"projectedBounds\":null,\"options\":{}}},\"calls\":[{\"method\":\"addTiles\",\"args\":[\"https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png\",null,null,{\"minZoom\":0,\"maxZoom\":18,\"tileSize\":256,\"subdomains\":\"abc\",\"errorTileUrl\":\"\",\"tms\":false,\"noWrap\":false,\"zoomOffset\":0,\"zoomReverse\":false,\"opacity\":1,\"zIndex\":1,\"detectRetina\":false,\"attribution\":\"&copy; <a href=\\\"https://openstreetmap.org/copyright/\\\">OpenStreetMap<\\/a>,  <a href=\\\"https://opendatacommons.org/licenses/odbl/\\\">ODbL<\\/a>\"}]},{\"method\":\"addMarkers\",\"args\":[36.80324442554868,127.0313140994977,null,null,null,{\"interactive\":true,\"draggable\":false,\"keyboard\":true,\"title\":\"\",\"alt\":\"\",\"zIndexOffset\":0,\"opacity\":1,\"riseOnHover\":false,\"riseOffset\":250},\"뱀밭\",null,null,null,null,{\"interactive\":false,\"permanent\":false,\"direction\":\"auto\",\"opacity\":1,\"offset\":[0,0],\"textsize\":\"10px\",\"textOnly\":false,\"className\":\"\",\"sticky\":true},null]}],\"setView\":[[36.80324442554868,127.0313140994977],13,[]],\"limits\":{\"lat\":[36.80324442554868,36.80324442554868],\"lng\":[127.0313140994977,127.0313140994977]}},\"evals\":[],\"jsHooks\":[]}</script>\n```\n\n:::\n:::\n\n\n\n## Spring of 1999\n\n## Spring of 2006\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../site_libs/htmltools-fill-0.5.8.1/fill.css\" rel=\"stylesheet\" />\n<script src=\"../../site_libs/htmlwidgets-1.6.4/htmlwidgets.js\"></script>\n<script src=\"../../site_libs/jquery-3.6.0/jquery-3.6.0.min.js\"></script>\n<link href=\"../../site_libs/leaflet-1.3.1/leaflet.css\" rel=\"stylesheet\" />\n<script src=\"../../site_libs/leaflet-1.3.1/leaflet.js\"></script>\n<link href=\"../../site_libs/leafletfix-1.0.0/leafletfix.css\" rel=\"stylesheet\" />\n<script src=\"../../site_libs/proj4-2.6.2/proj4.min.js\"></script>\n<script src=\"../../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js\"></script>\n<link href=\"../../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css\" rel=\"stylesheet\" />\n<script src=\"../../site_libs/leaflet-binding-2.2.2/leaflet.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

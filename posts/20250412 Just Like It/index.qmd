@@ -7,7 +7,7 @@ categories: [learning]
 
 > I see you have a camera like the one I used to have,
 >
-> You know, cell phone cameras take better photos than those DSLRs.
+> Nowdays cell phone cameras take better photos than those DSLRs.^[Digital Single Lens Reflex]
 
 A gentleman my age commented, as I walked with a camera Nikon introduced in December 2007, around the "Bowl" at a nearby 公園.
 
@@ -17,7 +17,7 @@ The ones he took with an iPhone.
 
 It was a great set of photos, taken from the South Rim as the shadows from the setting sun highlighted the Canyon.
 
-I had to agree with him, my old DSLR would not take better photos, if the comparison was based on the visual representation.
+I had to agree with him, this old DSLR would not take better photos, if the comparison was based on the visual representation.
 
 However, there is one thing, a limitation of the phone based camera.
 
@@ -28,6 +28,8 @@ That option is no longer available.
 And if one can't take a bad photo how does one learn about
 
 > capturing moments with light
+
+![Image Taken with a DSLR](images/DSC_1610_v1-EDIT.jpg){#fig-dslr}
 
 ------------------------------------------------------------------------
 
@@ -42,8 +44,6 @@ And if one can't take a bad photo how does one learn about
 -   A summary by AI Assistant
 
 ------------------------------------------------------------------------
-
-![](images/DSC_1610_v1-EDIT.jpg)
 
 Learned to drive a stick shift on streets of El Pueblo de Nuestra Señora la Reina de los Ángeles de Porciúncula,
 
@@ -125,7 +125,7 @@ Learned for myself, rather than pursuing skills and equipment to make photos lik
 
 If the goal or the pursuit is to understand how light is captured and processed, then purchase a used DSLR and go take pictures of unique offerings in the neighborhood
 
-![](images/20250422_222700~2-EDIT.jpg)
+![Android Camera Created Image, April 2025](images/20250422_222700~2-EDIT.jpg){#fig-android}
 
 ------------------------------------------------------------------------
 
@@ -149,7 +149,7 @@ Think of it like the **digital version of film** in old cameras.
 ## 📐 **Key Sensor Terms:**
 
 | **Term**                           | **What It Means**                                                                         |
-|------------------------------------|-------------------------------------------------------------------------------------------|
+|---------------------|---------------------------------------------------|
 | **Megapixels (MP)**                | How many million pixels the sensor has. More MPs = higher potential resolution.           |
 | **Full-frame Sensor**              | Same size as 35mm film. Great low-light performance and shallow depth of field.           |
 | **Crop Sensor (APS-C, Micro 4/3)** | Smaller than full-frame. Brings distant subjects closer, but can be noisier in low light. |
