@@ -1,0 +1,341 @@
+---
+title: "What's My Name"
+author: "DK"
+date: "2025-06-20"
+draft: yes
+categories: [context]
+---
+
+In Korea, normally a senior family member on the father's side assigns the baby name.
+
+Sister K's Korean given name does not sound feminine.
+
+According to AI,
+
+> ...there is a well-documented Korean tradition of giving masculine names to girls—especially in earlier generations—based on cultural and superstitious hopes for male offspring or to protect the child from misfortune. This tradition reflects aspects of Confucian values, family lineage priorities, and folk beliefs in historical Korea.
+
+(Thankfully this practice has faded away)
+
+She was the second daughter born in the family.
+She didn't liked it growing up. however the name remained with her.
+
+Until she moved to US when she turned 19.
+
+When she applied for a passport, her maternal uncle chose to Romanize the name, after the summer month.
+Rather than following the more established practice, as pointed out by AI.
+
+> -joon (준 / 俊, 準) – e.g., Hyun-Joon (현준)
+
+In an instant, like a wave of wand in a Disney Princess move, she was rewarded with a feminine name she had longed for.
+
+---
+
+It is not often that cultural norms, linguistic patterns, and naming conventions are overturned instantly
+Unless your grandfather embedded an universal naming convention, within the given name.
+And that name and the role is unpacked in another context and location.
+
+---
+
+We struggle to find meaning and purpose, and we fell stuck.
+There is an alternate explanation that has been withheld from us.
+
+For many, it is in communication with God and through parent's life we find pattern.
+
+Traditions and norms also keep us away from finding our true identity.
+Now distractions and confusion is contributing
+
+
+12 For there are many yet on the earth among all sects, parties, and denominations, who are blinded by the subtle craftiness of men, whereby they lie in wait to deceive, and who are only kept from the truth because they know not where to find it
+
+Doctrine and Covenants 123
+
+
+5 And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh?
+
+6 Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder.
+
+7 They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?
+
+8 He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.
+
+Matthe 19
+
+
+In the U.S., determining whether a name is typically **feminine or masculine** can usually be done through a combination of **cultural norms, linguistic patterns**, and **naming conventions**. Here are the most common ways:
+
+---
+
+## 🧠 1. **Common Gender Associations**
+
+Some names are widely recognized as either feminine or masculine:
+
+* **Feminine examples**: Emily, Sophia, Olivia, Grace, Jessica
+* **Masculine examples**: James, William, Michael, Thomas, John
+
+These associations are largely based on **historical usage** and **baby name databases** (like the SSA name data).
+
+---
+
+## 🔤 2. **Name Endings**
+
+Certain **suffixes** tend to indicate gender:
+
+### Feminine:
+
+* Often ends in **-a**, **-ie**, **-y**, or **-ine**
+
+  > e.g., **Anna**, **Sophie**, **Emily**, **Christine**
+
+### Masculine:
+
+* Often ends in **-n**, **-er**, **-on**, or hard consonants
+
+  > e.g., **Jason**, **Tyler**, **Brandon**, **Mark**
+
+⚠️ This is not a rule, just a tendency.
+
+---
+
+## 📊 3. **Use Government Baby Name Data**
+
+The **U.S. Social Security Administration (SSA)** publishes baby name data by year and gender.
+
+You can look up how many boys vs. girls were given a particular name:
+
+* Website: [https://www.ssa.gov/oact/babynames/](https://www.ssa.gov/oact/babynames/)
+
+---
+
+## 🏷️ 4. **Unisex or Gender-Neutral Names**
+
+Some names are **commonly used for both genders**:
+
+* Examples: **Jordan**, **Taylor**, **Casey**, **Alex**, **Morgan**, **Skyler**
+
+These names may be 50/50 or lean toward one gender depending on the era.
+
+---
+
+## 🔍 5. **Cultural & Ethnic Origin**
+
+Some names have clear gender associations **within their original culture**, which influences U.S. usage:
+
+* **Alejandro (M)** vs. **Alejandra (F)** (Spanish)
+* **Giovanni (M)** vs. **Gianna (F)** (Italian)
+
+---
+
+## ✅ Tools & Tips
+
+* 📘 **Name dictionaries** (e.g., BehindTheName.com)
+* 📊 **SSA data tools or baby name APIs**
+* 🧠 Use AI or ML libraries like R `gender` package or Python's `gender-guesser`
+
+---
+
+Would you like:
+
+* A script to detect name gender in R or Python?
+* A list of the most unisex names?
+* To evaluate gender distribution for a custom name list?
+
+
+---
+
+
+In Korea, identifying whether a **given name** is typically **masculine or feminine** involves understanding linguistic, cultural, and historical naming patterns. Unlike in many Western cultures, Korean names often follow **structured syllabic patterns**, but there are still common ways to infer gender:
+
+---
+
+## 🧠 1. **Typical Syllables Used in Gendered Names**
+
+Korean names usually consist of **two syllables**, often from **Hanja (Chinese characters)**. Certain syllables are traditionally more associated with one gender:
+
+### 🩷 Common in Feminine Names:
+
+* **-young (영 / 英)** – e.g., Mi-Young (미영)
+* **-hee (희 / 喜, 熙)** – e.g., Sun-Hee (순희)
+* **-ja (자 / 子)** – e.g., Young-Ja (영자) — older generation
+* **-kyung (경 / 敬, 慶)** – e.g., Eun-Kyung (은경)
+* **-sook (숙 / 淑)** – e.g., Kyung-Sook (경숙)
+* **-mi (미 / 美)** – e.g., Hye-Mi (혜미) — means “beauty”
+
+### 💙 Common in Masculine Names:
+
+* **-ho (호 / 浩, 豪)** – e.g., Jung-Ho (정호)
+* **-seok (석 / 錫, 石)** – e.g., Min-Seok (민석)
+* **-joon (준 / 俊, 準)** – e.g., Hyun-Joon (현준)
+* **-hyun (현 / 賢, 炫)** – e.g., Dong-Hyun (동현)
+* **-chul (철 / 哲)** – e.g., Sang-Chul (상철)
+* **-woo (우 / 祐, 宇)** – e.g., Ji-Woo (지우) — now often unisex
+
+⚠️ Note: Some of these syllables are now more **gender-neutral** in modern names.
+
+---
+
+## 👶 2. **Hanja Meaning (한자 뜻)**
+
+Korean names written in Hanja often carry gendered connotations:
+
+* 女-related characters (e.g., **美** = beauty, **淑** = gentle) → **feminine**
+* Masculine names often use characters with meanings like **strength**, **greatness**, or **wisdom** (e.g., **豪**, **賢**, **俊**)
+
+---
+
+## 🔄 3. **Generational Naming Practices**
+
+Traditional Korean names used **generational syllables** (돌림자) shared among same-generation siblings, often with gender-specific roles.
+
+* Example: **Kim Dong-Seok** (male) and **Kim Dong-Hee** (female) — shared first syllable, gendered second.
+
+---
+
+## 📈 4. **Trends Over Time**
+
+* **-ja** suffixes (e.g., Young-Ja) were **popular for girls born in the 1940s–60s**, but are now dated.
+* **Neutral or Western-sounding names** (e.g., Ji-Min, Ji-Woo) are increasingly popular for both genders.
+
+---
+
+## 🎯 5. **Contextual Clues**
+
+In real life, people may guess gender based on:
+
+* **Name plus family name**
+* **Generation/age**
+* **Spoken intonation** (some syllables sound “softer” or “stronger”)
+
+---
+
+## 🛠️ Tools
+
+If you have a Korean name and want to guess its gender:
+
+* Use Naver/Daum dictionaries for Hanja breakdown
+* Use Korean government baby name statistics
+* AI tools trained on Korean name datasets (e.g., Python + Hangul processing)
+
+---
+
+Would you like:
+
+* A function to guess gender of Korean names in R or Python?
+* A list of most common modern unisex Korean names?
+* CSV data on name-gender frequencies in Korea?
+
+---
+
+## Practice of giving a masculine names to girls
+
+Yes, there is a well-documented **Korean tradition** of giving **masculine names to girls**—especially in earlier generations—based on **cultural and superstitious hopes** for male offspring or to **protect the child from misfortune**. This tradition reflects aspects of **Confucian values**, **family lineage priorities**, and **folk beliefs** in historical Korea.
+
+---
+
+## 📜 Background and Cultural Context
+
+### 🔹 1. **Preference for Sons**
+
+In traditional Korean (and broader East Asian) society:
+
+* Sons were preferred for carrying on the **family name**, **ancestral rites**, and **economic support**.
+* Families hoping for a son might name a **first-born daughter with a masculine name** as a kind of "placeholder" or luck-bringing gesture to bring about the birth of a son next.
+
+> Example: Naming a girl **“Sang-chul”** (상철), a name typical for boys, to trick spirits or fate.
+
+---
+
+### 🔹 2. **Protective Naming: “Misnaming”**
+
+There was also a **superstitious belief** that evil spirits could target or harm precious children. By giving a girl a **boy’s name** or a rough/common name:
+
+* The child might **avoid spiritual attention or harm**.
+* It would **protect the child’s life and future**.
+
+This overlaps with similar practices in other cultures (e.g., Russian peasants giving babies “ugly” names to ward off spirits).
+
+---
+
+### 🔹 3. **Practical Effects**
+
+Some women continued using their masculine names legally or socially for decades. You’ll find:
+
+* Women born in the **1930s–60s** with names like **Young-ho**, **Dong-soo**, or **Chul-soo**.
+* Occasionally, feminine names with strong, masculine syllables (like **Sun-chul**, **Jong-il**) that were family-chosen rather than self-selected.
+
+---
+
+### 🔹 4. **Decline of the Practice**
+
+Since the **1980s and 1990s**, this tradition has largely faded:
+
+* Changing gender norms
+* Decline in son preference
+* Rise of **gender-neutral** or Western-inspired Korean names like **Ji-min**, **Ji-woo**, **Ha-eun**
+
+---
+
+## 🧾 Summary
+
+| Practice                      | Description                                                             |
+| ----------------------------- | ----------------------------------------------------------------------- |
+| **Masculine names for girls** | Used to fulfill cultural preference for sons or as spiritual protection |
+| **Motivations**               | To bring luck, deceive spirits, or express regret                       |
+| **Typical names**             | Sang-ho, Young-chul, Dong-soo (used for girls)                          |
+| **Era**                       | Most common mid-20th century (1930s–1970s)                              |
+| **Modern status**             | Rare today; mostly seen in elders or historical records                 |
+
+---
+
+Would you like:
+
+* Examples from Korean family registries or real-life interviews?
+* A quote from literature or anthropology on this practice?
+* A script to detect unexpected gender/name pairings in a dataset?
+
+---
+
+The name **June** for the summer month has its roots in **ancient Rome**, and it's generally believed to be named after the **Roman goddess Juno**, though there are alternate theories as well.
+
+---
+
+## 🌺 Origin of the Name "June"
+
+### 🏛️ 1. **Named After the Goddess Juno**
+
+* **Juno** was the Roman goddess of:
+
+  * **Marriage**
+  * **Childbirth**
+  * **Women**
+  * Queen of the gods (wife of Jupiter)
+
+Because of her associations with marriage and fertility, **June became a favored month for weddings**—a tradition that still holds in many cultures today.
+
+> 🔹 Latin: *Iunius mensis* = “Month of Juno”
+
+---
+
+### 📜 2. **Alternative Theory: Iuniores (Younger People)**
+
+Roman scholar **Ovid** (in *Fasti*, his calendar poem) gives two possibilities:
+
+* That **May** (*Maius*) was named for *maiores* (elders),
+* And **June** (*Iunius*) for *iuniores* (youth).
+
+> “Maius a maioribus, iunioribusque Iunius”
+> “May from the older men, and June from the younger.”
+
+But this is considered more literary than historically grounded.
+
+---
+
+### 🗓️ Summary
+
+| Month | Origin Name | Named After       | Meaning                              |
+| ----- | ----------- | ----------------- | ------------------------------------ |
+| June  | *Iunius*    | Juno (goddess)    | Protector of women, marriage, family |
+|       |             | *(alt: iuniores)* | (Possibly: the younger generation)   |
+
+---
+
+Would you like similar origin stories for other months, like July (Julius Caesar) or April (Aphrodite or *aperire*)?

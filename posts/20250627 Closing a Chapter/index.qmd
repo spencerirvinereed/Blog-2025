@@ -1,0 +1,84 @@
+---
+title: "Closing a Chapter"
+author: "DK"
+date: "2025-06-27"
+draft: yes
+categories: [epoch]
+---
+
+> And the spirit and the body are the soul of man - Doctrine and Covenants 88:15
+
+This is a theology of the faith I have chosen to live by.
+
+A restaurant, like many public places, offers tangible items, music, food/beverages and the customer facing staff, seldom seen kitchen workers, a combinatin of colors and a choice of decor.
+
+The aggregate result is an intangible feeling or vibe.
+
+An advantage and thus the allure of restaurants is this,
+
+On top of everything else it provides, it fulfills the core needs of humans.
+
+Bonus if the environment or the vibe enhances the feeling of friendship that leads to a lasting union.
+
+That feeling, when gazing across the table filled with food and drinks and see the person you have come to know and appreciate. Yet that person is seen differently
+
+## Restaurant is a reflection or extension of owners
+
+As owners, start with confidence that things will go as planned or better.
+
+It is gratifying to see customers
+
+## That restaurant in Southern France
+
+Memorable visit after a tour of Rocamadour to Le Bourg. About a 10 mile trip
+
+It was a Sunday supper, all of the seats were reserved and food was prepared accordingly My brother in law who served his mission in Italy talked to the owner/chef. We were famished.
+
+He let us in. I believe others got less food as a result
+
+Among the guests was this lady.
+
+She was dining by herself.
+
+Life well lived.
+
+![](images/IMG_7487.JPG)
+
+![](images/IMG_7486.JPG)
+
+![](images/IMG_7474.JPG)
+
+![](images/IMG_7496.JPG)
+
+```{r}
+library(leaflet)
+locations <- data.frame(
+  name = c("Rocamadour", "La Table Carlucetoise"),
+  lat = c(44.79967482232155, 44.73576340884787),
+  lng = c(1.618252177414528, 1.6442473236257966)
+)
+
+leaflet(locations) %>%
+  addTiles() %>%
+  addMarkers(
+    ~lng, ~lat, popup = ~name
+  )
+```
+
+44.79967482232155, 1.618252177414528
+
+La Table Carlucetoise in Le Bourg, 46500 Carlucet, France
+
+44.73576340884787, 1.6442473236257966
+
+```{r}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap tiles
+  addMarkers(
+    lng = 1.6442473236257966, 
+    lat = 44.73576340884787, 
+    popup = "La Table Carlucetoise"
+  )
+
+```

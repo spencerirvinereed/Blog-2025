@@ -1,0 +1,9 @@
+---
+title: "Life in Korea"
+author: "DK"
+date: "2025-06-28"
+draft: yes
+categories: [epoch]
+---
+
+Roger served during 1976 to 1978 in Seoul, Daejeon and Incheon

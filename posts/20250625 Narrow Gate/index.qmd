@@ -1,0 +1,434 @@
+---
+title: "Hong Family"
+author: "DK"
+date: "2025-06-14"
+draft: yes
+categories: [aging]
+---
+
+Here is **Matthew 7:13–14** in the original **Koine Greek**, as found in the *Textus Receptus* and most standard Greek New Testaments:
+
+------------------------------------------------------------------------
+
+### 📖 **Greek (Matthew 7:13–14)**
+
+**Ματθαῖος 7:13–14**
+
+**13** Εἰσέλθετε διὰ τῆς στενῆς πύλης· ὅτι πλατεῖα ἡ πύλη καὶ εὐρύχωρος ἡ ὁδὸς ἡ ἀπάγουσα εἰς τὴν ἀπώλειαν, καὶ πολλοί εἰσιν οἱ εἰσερχόμενοι δι’ αὐτῆς·
+
+**14** ὅτι στενὴ ἡ πύλη καὶ τεθλιμμένη ἡ ὁδὸς ἡ ἀπάγουσα εἰς τὴν ζωήν, καὶ ὀλίγοι εἰσὶν οἱ εὑρίσκοντες αὐτήν.
+
+------------------------------------------------------------------------
+
+Here's a **word-by-word breakdown (parsing)** of **Matthew 7:13–14** in Greek, focusing on grammatical form and meaning. This will help you understand the structure and nuances of the text.
+
+------------------------------------------------------------------------
+
+## 📖 **Matthew 7:13 – Greek Parsing**
+
+> **Εἰσέλθετε**\
+>
+> Verb – Aorist Active Imperative, 2nd Person Plural of **εἰσέρχομαι**\
+>
+> 👉 “Enter!”
+
+> **διὰ**\
+>
+> Preposition with Genitive\
+>
+> 👉 “through”
+
+> **τῆς στενῆς πύλης·**
+
+-   
+
+-   **τῆς** – Article, Genitive Feminine Singular
+
+-   
+
+-   **στενῆς** – Adjective, Genitive Feminine Singular of **στενός** (“narrow”)
+
+-   
+
+-   **πύλης** – Noun, Genitive Feminine Singular of **πύλη** (“gate”)\
+
+    👉 “through the narrow gate”
+
+-   
+
+> **ὅτι**\
+>
+> Conjunction\
+>
+> 👉 “because” or “for”
+
+> **πλατεῖα ἡ πύλη**
+
+-   
+
+-   **πλατεῖα** – Adjective, Nominative Feminine Singular of **πλατύς** (“broad, wide”)
+
+-   
+
+-   **ἡ** – Article, Nominative Feminine Singular
+
+-   
+
+-   **πύλη** – Noun, Nominative Feminine Singular\
+
+    👉 “wide is the gate”
+
+-   
+
+> **καὶ εὐρύχωρος ἡ ὁδός**
+
+-   
+
+-   **καὶ** – Conjunction, “and”
+
+-   
+
+-   **εὐρύχωρος** – Adjective, Nominative Feminine Singular (“spacious, broad”)
+
+-   
+
+-   **ἡ** – Article
+
+-   
+
+-   **ὁδός** – Noun, Nominative Feminine Singular (“road, way”)\
+
+    👉 “and broad is the way”
+
+-   
+
+> **ἡ ἀπάγουσα εἰς τὴν ἀπώλειαν**
+
+-   
+
+-   **ἡ** – Article
+
+-   
+
+-   **ἀπάγουσα** – Participle, Present Active Feminine Singular of **ἀπάγω** (“to lead away”)
+
+-   
+
+-   **εἰς** – Preposition with Accusative, “into” or “to”
+
+-   
+
+-   **τὴν** – Article, Accusative Feminine Singular
+
+-   
+
+-   **ἀπώλειαν** – Noun, Accusative Feminine Singular (“destruction, ruin”)\
+
+    👉 “that leads to destruction”
+
+-   
+
+> **καὶ πολλοί εἰσιν οἱ εἰσερχόμενοι δι’ αὐτῆς·**
+
+-   
+
+-   **καὶ** – “and”
+
+-   
+
+-   **πολλοί** – Adjective, Nominative Masculine Plural (“many”)
+
+-   
+
+-   **εἰσιν** – Verb, Present Active Indicative 3rd Plural of **εἰμί** (“are”)
+
+-   
+
+-   **οἱ εἰσερχόμενοι** – Article + Participle, Present Middle/Passive Nominative Masculine Plural of **εἰσέρχομαι** (“those entering”)
+
+-   
+
+-   **δι’** – Preposition (contraction of **διά**)
+
+-   
+
+-   **αὐτῆς** – Pronoun, Genitive Feminine Singular (“through it”)\
+
+    👉 “and many are those who enter through it”
+
+-   
+
+------------------------------------------------------------------------
+
+## 📖 **Matthew 7:14 – Greek Parsing**
+
+> **ὅτι στενὴ ἡ πύλη**
+
+-   
+
+-   **ὅτι** – “because”
+
+-   
+
+-   **στενὴ** – Adjective, Nominative Feminine Singular (“narrow”)
+
+-   
+
+-   **ἡ πύλη** – “the gate”\
+
+    👉 “because the gate is narrow”
+
+-   
+
+> **καὶ τεθλιμμένη ἡ ὁδός**
+
+-   
+
+-   **καὶ** – “and”
+
+-   
+
+-   **τεθλιμμένη** – Perfect Passive Participle, Nominative Feminine Singular of **θλίβω** (“compressed, afflicted, narrow”)
+
+-   
+
+-   **ἡ ὁδός** – “the way”\
+
+    👉 “and the way is hard/constricted”
+
+-   
+
+> **ἡ ἀπάγουσα εἰς τὴν ζωήν**
+
+-   
+
+-   Same structure as verse 13\
+
+    👉 “that leads to life”
+
+-   
+
+> **καὶ ὀλίγοι εἰσὶν οἱ εὑρίσκοντες αὐτήν.**
+
+-   
+
+-   **καὶ** – “and”
+
+-   
+
+-   **ὀλίγοι** – Adjective, Nominative Masculine Plural (“few”)
+
+-   
+
+-   **εἰσὶν** – “are”
+
+-   
+
+-   **οἱ εὑρίσκοντες** – Article + Present Active Participle, Nominative Masculine Plural of **εὑρίσκω** (“those finding”)
+
+-   
+
+-   **αὐτήν** – Pronoun, Accusative Feminine Singular (“it”)\
+
+    👉 “and few are those who find it”
+
+-   
+
+------------------------------------------------------------------------
+
+## 🧠 Summary of Key Greek Words
+
+|     |            |     |                              |     |
+|-----|------------|-----|------------------------------|-----|
+|     |            |     |                              |     |
+|     | Greek Word |     | Meaning                      |     |
+|     |            |     |                              |     |
+|     | στενός     |     | narrow, constricted          |     |
+|     |            |     |                              |     |
+|     | πύλη       |     | gate                         |     |
+|     |            |     |                              |     |
+|     | ὁδός       |     | way, path                    |     |
+|     |            |     |                              |     |
+|     | ἀπώλεια    |     | destruction, ruin            |     |
+|     |            |     |                              |     |
+|     | ζωή        |     | life                         |     |
+|     |            |     |                              |     |
+|     | ὀλίγοι     |     | few                          |     |
+|     |            |     |                              |     |
+|     | εὑρίσκω    |     | to find                      |     |
+|     |            |     |                              |     |
+|     | θλίβω      |     | to press, afflict, constrain |     |
+|     |            |     |                              |     |
+
+------------------------------------------------------------------------
+
+Let me know if you’d like:
+
+-   
+
+-   A **reverse interlinear** (Greek + English line by line)
+
+-   
+
+-   A **theological or semantic study** of key terms like *ἀπώλεια* or *ζωή*
+
+-   
+
+-   A **modern Greek pronunciation** guide
+
+-   
+
+### 📜 **English Translation (ESV for comparison)**
+
+> **13** “Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many.
+>
+> **14** For the gate is narrow and the way is hard that leads to life, and those who find it are few.”
+
+------------------------------------------------------------------------
+
+Let me know if you'd like:
+
+-   
+
+-   A **word-by-word breakdown or parsing**
+
+-   
+
+-   A **pronunciation guide**
+
+-   
+
+-   A connection to Greek philosophical or Jewish background
+
+-   
+
+Here is a **reverse interlinear** for **Matthew 7:13–14**, showing the **Greek**, **transliteration**, and **English translation**, line by line.
+
+------------------------------------------------------------------------
+
+## 📖 **Matthew 7:13**
+
+**Greek:**\
+
+εἰσέλθετε διὰ τῆς στενῆς πύλης·\
+
+**Transliteration:**\
+
+eiselthéte diá tēs stenês pýlēs\
+
+**English:**\
+
+Enter through the narrow gate;
+
+------------------------------------------------------------------------
+
+**Greek:**\
+
+ὅτι πλατεῖα ἡ πύλη καὶ εὐρύχωρος ἡ ὁδὸς\
+
+**Transliteration:**\
+
+hóti plateía hē pýlē kaì eurýchōros hē hodós\
+
+**English:**\
+
+for wide is the gate and broad is the road
+
+------------------------------------------------------------------------
+
+**Greek:**\
+
+ἡ ἀπάγουσα εἰς τὴν ἀπώλειαν,\
+
+**Transliteration:**\
+
+hē apágousa eis tḕn apṓleian\
+
+**English:**\
+
+that leads to destruction,
+
+------------------------------------------------------------------------
+
+**Greek:**\
+
+καὶ πολλοί εἰσιν οἱ εἰσερχόμενοι δι’ αὐτῆς.\
+
+**Transliteration:**\
+
+kaì polloí eisin hoi eiserchómenoi di’ autês\
+
+**English:**\
+
+and many are those who enter through it.
+
+------------------------------------------------------------------------
+
+## 📖 **Matthew 7:14**
+
+**Greek:**\
+
+ὅτι στενὴ ἡ πύλη\
+
+**Transliteration:**\
+
+hóti stenḕ hē pýlē\
+
+**English:**\
+
+For narrow is the gate
+
+------------------------------------------------------------------------
+
+**Greek:**\
+
+καὶ τεθλιμμένη ἡ ὁδὸς\
+
+**Transliteration:**\
+
+kaì tethlimménē hē hodós\
+
+**English:**\
+
+and difficult (constricted) is the road
+
+------------------------------------------------------------------------
+
+**Greek:**\
+
+ἡ ἀπάγουσα εἰς τὴν ζωήν,\
+
+**Transliteration:**\
+
+hē apágousa eis tḕn zōḗn\
+
+**English:**\
+
+that leads to life,
+
+------------------------------------------------------------------------
+
+**Greek:**\
+
+καὶ ὀλίγοι εἰσὶν οἱ εὑρίσκοντες αὐτήν.\
+
+**Transliteration:**\
+
+kaì olígoi eisin hoi heurískontes autḗn\
+
+**English:**\
+
+and few are those who find it.
+
+------------------------------------------------------------------------
+
+Would you like a printable PDF version or one formatted for Quarto, LaTeX, or Bible study tools?
+
+### **The Narrow and Wide Gates**
+
+^**13**^ “Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. ^**14**^ But small is the gate and narrow the road that leads to life, and only a few find it.
+
+New International Version
+
+[\
+](https://www.biblegateway.com/passage/?search=Matthew%207&version=NIV "View Full Chapter")
